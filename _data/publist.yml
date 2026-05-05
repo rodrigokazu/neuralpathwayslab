@@ -1,5 +1,5 @@
 - title: "Molecular correlates of TDP-43 pathology in human motor neurons revealed by spatial transcriptomics"
-  image: paper1.png
+  image: als_xenium.png
   description: Comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches.
   authors: Rodrigo Kazu Siqueira, Andrew Strange, Sam Bonsall, Chenchen Zhu, Robin Highley, Daniel Fillingham, Sai Zhang, Jingtian Zhou, Emma Monte, Eran Hornstein, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Novel cell-specific insights from single-cell multiome profiling of diseased and healthy motor cortex"
-  image: paper2.jpg
+  image: als_multiome.png
   description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors) — to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
   authors: Rodrigo Kazu Siqueira, Sam Bonsall, Marianne King, Andrew Strange, Sai Zhang, Jingtian Zhou, Charlotte van Dijk, Emma Monte, Tatyana Shelkovnikova, Kevin Kenna, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "TDP-43 toxic gain of function links ALS/FTLD-TDP and Alzheimer's disease through splicing dysregulation"
-  image: paper3.png
+  image: als_grn.png
   description: A multi-cohort study linking TDP-43 cryptic exon splicing dysregulation across ALS, FTLD-TDP, and Alzheimer's disease, using spatial and single-cell data from multiple brain regions.
   authors: Welmoed van Zuiden, Thea Meimoun, Chen Bar, Aviad Siany, Lihi Moshe, Nancy Yacovzada, Eviatar Weizman, Manuela Neumann, Aron S Buchman, Yanling Wang, Kazu R.S., Andrew Strange, David A Bennett, Jonathan D Glass, Adam N Trautwig, Nicholas T Seyfried, Johnathan Cooper-Knock, Eran Hornstein
   link:
@@ -26,7 +26,7 @@
   highlight: 1
 
 - title: "Repolarizing Angiogenic TAMs to inhibit Glioblastoma development"
-  image: paper4.jpg
+  image: gbm_spatial.png
   description: Machine learning models including clustering and zero-shot approaches (Novae) applied to Xenium spatial transcriptomics and multiome data from glioblastoma samples. Identification of distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment using NicheCompass.
   authors: Qianqian Zhang, Grant de Jong, Kazu R.S., David Rowitch, Omer Bayraktar
   link:
@@ -35,16 +35,16 @@
   highlight: 1
 
 - title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
-  image: paper1.png
+  image:
   description: Spatiotemporal cellular and molecular architecture of spinal cord injury mapped using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package) in both murine and human samples. Identifies distinct cellular subtypes and their interactions across injury zones.
   authors: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Kazu R.S., Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke
   link:
     url:
     display: In preparation — Cell
-  highlight: 1
+  highlight: 0
 
 - title: "Selective pruning and neuronal death generate heavy-tail network connectivity"
-  image: paper1.png
+  image: mds_network.png
   description: A directed network model in which less-connected nodes and edges are selectively deleted, robustly producing scale-invariant degree distributions without fine-tuning. Results suggest neuronal and synaptic pruning during brain development are selective rather than random, and that preferential detachment is a general mechanism for scale-free network formation alongside preferential attachment.
   authors: Kazu RS, Neves K and Mota B
   link:
@@ -53,28 +53,28 @@
   highlight: 1
 
 - title: "Modeling foot sole cutaneous afferents: FootSim"
-  image: paper1.jpg
+  image: paper2.jpeg
   description: FootSim is a realistic computational model of mechanoreceptor activation in the lower limb. It simulates neural spiking responses to arbitrary mechanical stimuli from all four types of mechanoreceptors innervating the foot sole, fitted to human microneurography recordings. The project won the INSIGNEO prize for best research.
   authors: Katic N, Kazu RS, Cleland L, ..., Bent L, Raspopovic S and Saal PH
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
     display: iScience, Vol. 26, Issue 1 (January 2023) — 23 citations
-  highlight: 1
+  highlight: 0
 
 - title: "White matter volume and white/gray matter ratio in mammalian species as a consequence of the universal scaling of cortical folding"
-  image: paper3.jpeg
+  image:
   description: Postulates that relative white matter volume is determined as the developing cortex settles in the most energetically favourable folded conformation, regardless of its number of neurons.
   authors: Mota B, Dos Santos SE, Ventura-Antunes L, Neves K, Kazu RS, Herculano-Houzel S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1716956116
     display: PNAS, Vol. 116, No. 30 (2019) — 68 citations
-  highlight: 1
+  highlight: 0
 
 - title: "Cellular scaling rules for the brain of Artiodactyla include a highly folded cortex with few neurons"
-  image: paper2.jpg
+  image:
   description: Scaling rules found across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor. The distribution of neurons along the cortical surface — related to gyrification — appears to be a clade-specific characteristic.
   authors: Kazu RS, Maldonado J, Mota B, Menger PR, Herculano-Houzel S.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full
     display: Frontiers in Neuroanatomy, Vol. 8 (2014) — 56 citations
-  highlight: 1
+  highlight: 0

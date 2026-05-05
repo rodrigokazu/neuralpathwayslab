@@ -1,5 +1,5 @@
 ---
-title: "Neural Pathways Lab - Publications"
+title: "NeuralPathways Lab - Publications"
 layout: gridlay
 sitemap: false
 permalink: /publications/
