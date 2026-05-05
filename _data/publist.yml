@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "Astrocyte WDR49 function prevents amyotrophic lateral sclerosis"
-  image: als_multiome.png
+  image:
   description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors) — to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
   authors: Rodrigo Kazu Siqueira, Sam Bonsall, Marianne King, Andrew Strange, Sai Zhang, Jingtian Zhou, Charlotte van Dijk, Emma Monte, Tatyana Shelkovnikova, Kevin Kenna, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
