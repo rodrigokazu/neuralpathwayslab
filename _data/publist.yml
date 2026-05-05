@@ -25,7 +25,7 @@
     display: bioRxiv 2025.04.20.648873
   highlight: 1
 
-- title: "Repolarizing Angiogenic TAMs to inhibit Glioblastoma development"
+- title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
   description: Machine learning models including clustering and zero-shot approaches (Novae) applied to Xenium spatial transcriptomics and multiome data from glioblastoma samples. Identification of distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment using NicheCompass.
   authors: Qianqian Zhang, Grant de Jong, Kazu R.S., David Rowitch, Omer Bayraktar
