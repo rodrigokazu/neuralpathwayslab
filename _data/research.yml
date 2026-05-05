@@ -1,27 +1,53 @@
-- title: "Selective pruning and neuronal death generate scale-invariant neuronal networks"
+- title: "ALS multiome atlas and network controllability"
   image: paper1.png
-  description: From the proliferative mechanisms that generate neurons from a seed population of progenitor cells, through neuron migration and the formation of synaptic connections, several vicissitudes culminate in the formation of a functional mature brain. Component loss, just as gain, remains ubiquitous throughout and can be substantial in scale. For instance, over healthy development, rodent brains lose over half the number of their original neuronal cells and synapses. However, the role of deleterious steps in network ontology (adaptive or otherwise) remains elusive. On the grounds of parsimony alone, it is unlikely that such a costly process would play no role in refining brain network architecture, or that the pruned components are lost at random. Like in the case of neurogenesis and synaptogenesis, we expect the processes of synaptic and neuron pruning to also have been shaped by evolution to enable complex and efficient computations. Inspired by the evident necessity of incorporating both component loss and gain in any complete description of a real neuronal network, we propose here a simple algorithm in which a directed network evolves through the selective deletion of less-connected nodes ('neurons') and edges ('synapses'). We show that the resulting networks robustly and without fine-tuning display scale-invariant degree distributions, as long as the network is predominantly feed-forward in nature. Scale-invariance has several properties that are desirable in biological networks, they are by construction scalable, resistant to damage by random deletions, and strongly connected while parsimonious in wiring. Although our algorithm is not meant to be a realistic model for the formation of biological neuronal networks, our results strongly suggest that neuronal and synaptic losses during development are selective rather than random and that selective deletion is an adaptive mechanism that plays a role in producing efficiently structured networks. Finally, despite being inspired by biology, our results have implications for network science more broadly. Scale invariance in degree distributions was first demonstrated for growing preferential attachment networks and then shown empirically to be present in a broad range of contexts. Our algorithm for preferential detachment provides an alternative mechanism for generating such networks, indicating perhaps that both preferential attachment and detachment are part of a broader class of algorithms that result in scale-free networks.
-  interested: Team - Rodrigo Siqueira, Kleber Neves and Bruno Mota
+  description: I lead the analysis of the largest ALS single-cell multiome atlas to date — 788,330 cells across 22 cell types from the human motor cortex — jointly profiled for gene expression and chromatin accessibility. From this atlas I infer cell-type-specific gene regulatory networks (eGRNs) and apply Minimum Dominating Set (MDS) analysis to identify the smallest group of master regulators whose combined reach covers the full network. Applied to WDR49+ astrocytes, the method prioritised 54 candidates, 21% of which independently emerged as significant exome hits in the NYGC rare variant dataset. The atlas manuscript is in preparation for Nature Genetics.
+  interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder and collaborators.
+  link:
+    url: https://arxiv.org/abs/2408.02625
+    display: Preprint (network method)
+  highlight: 1
+
+- title: "ALS spatial transcriptomics — spinal cord and motor cortex (Xenium)"
+  image: paper2.jpg
+  description: I have performed comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches. A parallel dataset of the motor cortex — the first of its kind for ALS — is being generated and will be the spatial backbone of the MNDA fellowship project. These analyses feed into manuscripts in preparation for Nature Genetics and Nature.
+  interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder, Andrew Strange and collaborators.
   link:
     url:
     display:
   highlight: 1
 
-- title: "Performance correlates in an in silico animat"
+- title: "scController — network controllability for single-cell and spatial omics"
   image: paper3.png
-  description: Brain size varies by more than 100.000-fold across species and it was considered a proxy for the number of brain neurons across and within species. However, the latest studies point to brain mass and neuronal numbers scaling differently across species whilst the number of other cells follows an almost universal scaling rule. Inside the same species, brain mass and neuronal numbers were found to not correlate at all. It has been postulated that neuronal numbers in the cerebral cortex are the neuroanatomical determinants of cognitive abilities across species - the more neurons, the more information processing capacity. Conversely, it is not clear whether this relationship holds within a species, most likely because the magnitude of difference in neuronal numbers needed to elicit the cognitive difference across species remains not present. Moreover, which specific neuronal correlates would explain that difference is currently unknown. Computational neuroscience provides us with a framework for neuronal simulation that has been greatly expanded in levels of detail in the past decades. Nevertheless, simulating complex behavioural tasks with these tools was not greatly explored due to the lack of embodiment of the simulated neuronal networks. In this work, a previously unpublished bespoke platform to connect cultured neuronal networks to a mobile robot is used to assemble a virtual animal, an animat. This set-up will be conditioned to perform behavioural tasks after being connected to a simulated neuronal network created utilising BRIAN2, which in recent updates also offers the possibility to accurately simulate glial cells. Multiple neuronal numbers, neuron-to-glia ratios and network configurations will be tested in terms of the animat performance in progressively complex tasks from simple obstacle avoidance to maze navigation. Network topology is simulated in a way that closely resembles the layout of multi-electrode arrays which allows for complex network properties to be tested and simulated as in its in vitro counterparts. It is expected that performance differences between the simulated networks will appear when the divergence in neuronal numbers surpasses the 1.63-fold found intra-species in mice.
-  interested: Team - Rodrigo Siqueira, Paulo Chagas and Nicolas Thorne.
+  description: As part of the MNDA fellowship project, I am developing scController, an open-source Python toolbox for applying Minimum Dominating Set analysis to eGRNs and spatial cell-type co-occurrence networks derived from single-cell and spatial omics data. The package will be integrated into the scverse ecosystem and benchmarked against state-of-the-art hub-extraction methods, complemented by new centrality measures developed in collaboration with Prof Bruno Mota.
+  interested: Rodrigo Kazu Siqueira, Bruno Mota, Johnathan Cooper-Knock.
   link:
     url:
     display:
   highlight: 1
 
-- title: "3D modelling of axonal guidance"
+- title: "Glioblastoma tumour-associated macrophages (Xenium)"
   image: paper4.jpg
-  description:  The corpus callosum (CC) is the largest forebrain commissure and mediates the connection between both brain hemispheres. Recent finds published by Szczupak et al. (2022) point to ~75% of interhemispheric callosal connections being heterotopic. This study used mice, marmosets, and humans with data from the Allen Mouse Brain Connectivity Atlas and high-resolution diffusion-weighted imaging. Still, the way the axons orient themselves during cortical development remains elusive. In the project, I aim to generate a 3D model of a cortical region with defined rules for axonal guidance. It will be developed using agent-based modelling, in Python. The model would comprise axons that grow at a similar speed and chemotaxis using signals such as netrin, Sonic hedgehog (SHH) and other guidance cues, secreted by the midline with an anteroposterior temporal gradient. If the axons do not reach the midline they are removed. When they do reach the midline, they attach to others to follow a non-predefined path to the cortex. The model would then be used to test with the current signals found in the literature are sufficient to reproduce Szczupak's results from brain development and if so, which of the variables are the key components to generate the proportion of heterotopic axons found.
-  interested: Team - Rodrigo Siqueira, Paulo Chagas, Kleber Neves and Diego Szczupak.
+  description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute) and the Zhang laboratory (University of Florida), I apply machine learning models — including clustering and zero-shot models from the Novae package — to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
+  interested: Rodrigo Kazu Siqueira, Qianqian Zhang, Grant de Jong, David Rowitch, Omer Bayraktar.
   link:
     url:
     display:
   highlight: 1
-  
+
+- title: "Spatiotemporal spinal cord injury atlas"
+  image: paper1.png
+  description: I contribute to a large-scale spatiotemporal analysis of spinal cord injury using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package). The work identifies distinct cellular subtypes and their interactions across injury zones in both murine and human samples, providing new insights into potential therapeutic targets for spinal cord repair. Manuscript in preparation for Cell (Burnside et al.).
+  interested: Emily R. Burnside, Rodrigo Kazu Siqueira, Yeliz Demirci, Julio Saez-Rodriguez, Frank Bradke and collaborators.
+  link:
+    url:
+    display:
+  highlight: 1
+
+- title: "Selective pruning and neuronal death generate scale-free networks"
+  image: paper3.png
+  description: Inspired by the ubiquity of component loss during brain development, we propose a simple directed network model in which less-connected nodes and edges are selectively deleted. The resulting networks robustly display scale-invariant degree distributions without fine-tuning, as long as the network is predominantly feed-forward. This suggests that neuronal and synaptic pruning during development are selective rather than random, and that preferential detachment is a general mechanism for generating scale-free networks alongside preferential attachment.
+  interested: Rodrigo Kazu Siqueira, Kleber Neves, Bruno Mota.
+  link:
+    url: https://arxiv.org/abs/2408.02625
+    display: arXiv:2408.02625 [q-bio.NC]
+  highlight: 1

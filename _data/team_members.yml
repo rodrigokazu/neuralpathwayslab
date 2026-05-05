@@ -1,36 +1,17 @@
 - name: Dr Rodrigo Kazu Siqueira
   photo: Rodrigo.png
-  info: Team leader, and researcher at INSIGNEO and The Neuroscience Institute.
+  info: Research Associate, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield / Snyder Lab, Stanford University.
   email: r.siqueiradesouza@sheffield.ac.uk
   number_educ: 1
-  education1:  I started my education with an undergrad in biology heavily focused on zoology and evolution at the University of Brazil, from where I got my quantifiable output in 2010, a publication dealing with the 3D modelling of fossils. I always had an aptitude for computers, gravitating towards projects that involved modelling. This profile led me to a master's in neuroscience at the same institution. There I worked with brain evolution and neuroanatomy, describing the brains of a whole mammalian order, the artiodactyls, which was the main publication of this period in the Frontiers in Neuroanatomy journal (in 2014). This period had an additional publication in the journal PNAS that came in 2019. I spent a significant amount of time during these early years studying programming and statistics to better understand and analyse my data. After graduating I was awarded a scholarship by the CNPq of Brazil to pursue my PhD. I chose the degree of Cybernetics at the University of Reading. There, I developed a complete toolbox to analyse the electrical signals derived from neuronal cell cultures placed onto multielectrode arrays. My work included the complete cycle, from developing a protocol to differentiating neurons from stem cells to writing the complete code of the toolbox, available in a public repository. The conclusion of my PhD allowed me to be hired by the Active Touch Laboratory at the University of Sheffield to work with computational neuroscience and neuroprosthetics. My project during this post-doc won the best research prize at the INSIGNEO Institute and was published in the journal iScience (2022). Now, I am exploring AI tools for better diagnostics in healthcare as well as developing computational models of the brain that leverage the framework provided by complex network analysis.
+  education1: I am a computational biologist working at the intersection of single-cell multiomics, spatial transcriptomics, and complex network theory, with a focus on ALS/MND. I am currently a Research Associate in the Cooper-Knock group at SITraN, University of Sheffield, embedded within the Snyder Lab at Stanford University. I lead the analysis of the largest ALS single-cell multiome atlas to date (788,330 cells, motor cortex) and am generating the first ALS motor cortex spatial transcriptomics dataset on the 10x Genomics Xenium platform. I develop network controllability methods — Minimum Dominating Sets — to prioritise master regulators and therapeutic targets from gene regulatory networks in disease-relevant cell types. Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, University of Cambridge (Bayraktar lab, 2024–2025), where I worked on glioblastoma spatial transcriptomics. I have a PhD in Cybernetics (University of Reading, 2020), an MSc in Neuroscience (Federal University of Rio de Janeiro), and a BSc in Biological Sciences (Federal University of Rio de Janeiro).
   twitter: https://twitter.com/
   scholar: https://scholar.google.com/citations?user=9L_gpmUAAAAJ&hl=pt-BR&oi=ao
 
-- name: Dr Nicolas Thorne
-  photo: Nicolas.jpeg
-  info: Researcher in Machine Learning/AI, Computational Neuroscience and Complex Networks
-  email: tnthornet@gmail.com
-  number_educ: 1
-  education1: Dr Nicolas Thorne received his Bsc in Cognitive Systems from the University of British Columbia (UBC) in Vancouver, Canada and his Msc in Cybernetics from Reading University. His PhD degree was under Prof. Nasuto, Dr. Hayashi and Dr. Honisch (SPCLS). His work focuses on modelling how humans are able to communicate with each other through touch in order to complete a task. High density EEG data will be taken of each pair of participants and analyzed to find the large-scale neural networks that characterize the different states that can be observed during the experiment.
-  twitter: https://twitter.com/
-  scholar:
-
-- name: Dr Daniel Menezes Guimaraes
-  photo: danibeibe.jpg
-  info: Staff scientist at the DO'r Institute and team member
-  email: danielmgui@gmail.com
-  number_educ: 1
-  education1: I am a highly qualified postdoctoral researcher with a Ph.D. in Neuroscience, specializing in data analysis and animal research. Throughout my academic career, I have honed my expertise in the collection, analysis, and visualization of complex datasets, employing advanced statistical and machine learning models. My proficiency in data-driven methodologies and my hands-on experience with diverse data analysis tools enable me to derive meaningful insights from intricate datasets. I am adept at translating research findings into actionable recommendations and have a proven track record of delivering high-quality results.
-  twitter: https://twitter.com/
-  scholar:
-
-
 - name: Paulo F Chagas
   photo: Paulo.jpg
-  info: Masters student
+  info: Masters student, University of Brazil (co-supervised with Bruno Mota)
   email: pchagas@biof.ufrj.br
   number_educ: 1
-  education1: I have a BSc degree in Biophysics at the Federal University of Rio de Janeiro (UFRJ). I just finished my dissertation on the differences between motor imagery and motor execution, through electroencephalography (EEG) analysis. Now, I am a machine learning researcher at Forebrain (Brazil), working with the prediction of brain metrics, acquired through EEG. Furthermore, I am a data scientist who excels at neural data acquisition, processing, and analysis. I am going to the University of Sheffield and Cambridge to do a 2-month project supervised by Dr Rodrigo Kazu.
+  education1: Paulo has a BSc in Biophysics from the Federal University of Rio de Janeiro (UFRJ). He is currently a Masters student in Applied Physics at the University of Brazil, co-supervised by Rodrigo Kazu and Bruno Mota. His project focuses on multiomics of Alzheimer's disease — "Understanding oligodendrocyte dysfunction in Alzheimer's disease" — using datasets from the Kellis group at MIT.
   twitter: https://twitter.com/
   scholar:
