@@ -34,15 +34,6 @@
     display: Bayraktar group, Wellcome Sanger Institute
   highlight: 1
 
-- title: "Spatiotemporal spinal cord injury atlas"
-  image:
-  description: I contribute to a large-scale spatiotemporal analysis of spinal cord injury using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package). The work identifies distinct cellular subtypes and their interactions across injury zones in both murine and human samples, providing new insights into potential therapeutic targets for spinal cord repair. Manuscript in preparation for Cell (Burnside et al.).
-  interested: Emily R. Burnside, Rodrigo Kazu Siqueira, Yeliz Demirci, Julio Saez-Rodriguez, Frank Bradke and collaborators.
-  link:
-    url:
-    display:
-  highlight: 1
-
 - title: "Understanding oligodendrocyte dysfunction in Alzheimer's disease"
   image:
   description: Co-supervising a Master's student (Paulo) at the Applied Physics program, University of Brazil, on a multiomics project examining oligodendrocyte dysfunction in Alzheimer's disease using the latest dataset from the Kellis group (MIT). The project applies single-cell and multiome approaches to characterise glial cell-type-specific transcriptional changes in AD.

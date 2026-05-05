@@ -17,12 +17,12 @@
   highlight: 1
 
 - title: "TDP-43 toxic gain of function links ALS/FTLD-TDP and Alzheimer's disease through splicing dysregulation"
-  image: als_grn.png
-  description: A multi-cohort study linking TDP-43 cryptic exon splicing dysregulation across ALS, FTLD-TDP, and Alzheimer's disease, using spatial and single-cell data from multiple brain regions.
+  image: tdp43_splicing.png
+  description: A multi-cohort study showing that TDP-43 pathology broadly drives splicing dysregulation in Alzheimer's disease, including aberrant APP isoform production (APP751/APP770). TDP-43 toxic gain of cytoplasmic function co-sequesters splicing regulators SCAF11, SRSF5, and TIAL1, mechanistically linking ALS/FTLD-TDP and AD through shared splicing dysfunction.
   authors: Welmoed van Zuiden, Thea Meimoun, Chen Bar, Aviad Siany, Lihi Moshe, Nancy Yacovzada, Eviatar Weizman, Manuela Neumann, Aron S Buchman, Yanling Wang, Kazu R.S., Andrew Strange, David A Bennett, Jonathan D Glass, Adam N Trautwig, Nicholas T Seyfried, Johnathan Cooper-Knock, Eran Hornstein
   link:
-    url:
-    display: Under review — Nature
+    url: https://www.biorxiv.org/content/10.1101/2025.04.20.648873v1
+    display: bioRxiv 2025.04.20.648873
   highlight: 1
 
 - title: "Repolarizing Angiogenic TAMs to inhibit Glioblastoma development"
