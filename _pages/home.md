@@ -56,7 +56,7 @@ Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, Univer
 </div>
 
 <figure class="third">
+  <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NP-Sheffield_Logo.png" style="width: 110px; margin-right: 30px; margin-top: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NP_new_logo.jpg" style="width: 110px; margin-right: 30px; margin-top: 25px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="width: 110px; margin-top: 25px">
 </figure>
