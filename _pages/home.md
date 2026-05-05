@@ -53,20 +53,20 @@ After industry and a fellowship at the Wellcome Sanger Institute, I joined the C
   Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Main collaborators include the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute.
 </div>
 
-<div style="margin-top: 35px; display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 40px;">
+<div style="margin-top: 50px; display: flex; flex-wrap: wrap; align-items: center; justify-content: flex-start; gap: 50px; padding: 20px 0;">
   <a href="https://www.sheffield.ac.uk/sitran" target="_blank">
-    <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="height: 48px; width: auto; object-fit: contain;">
+    <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="height: 64px; width: auto; object-fit: contain;">
   </a>
   <a href="https://www.sheffield.ac.uk/neuroscience-institute" target="_blank">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="height: 48px; width: auto; object-fit: contain;">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="height: 64px; width: auto; object-fit: contain;">
   </a>
   <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/" target="_blank">
-    <img src="https://download.logo.wine/logo/University_of_Cambridge/University_of_Cambridge-Logo.wine.png" style="height: 48px; width: auto; object-fit: contain;">
+    <img src="https://download.logo.wine/logo/University_of_Cambridge/University_of_Cambridge-Logo.wine.png" style="height: 64px; width: auto; object-fit: contain;">
   </a>
   <a href="https://snyderlab.stanford.edu" target="_blank">
-    <img src="https://www.designyourway.net/blog/wp-content/uploads/2024/04/the-meaning-behind-the-stanford-university-logo.png" style="height: 48px; width: auto; object-fit: contain;">
+    <img src="https://www.designyourway.net/blog/wp-content/uploads/2024/04/the-meaning-behind-the-stanford-university-logo.png" style="height: 64px; width: auto; object-fit: contain;">
   </a>
   <a href="https://ufrj.br" target="_blank">
-    <img src="https://athenadigitaluniversity.eu/fileadmin/_processed_/d/5/csm_logo-UFRJ_f80cfe6c5b.png" style="height: 48px; width: auto; object-fit: contain;">
+    <img src="https://athenadigitaluniversity.eu/fileadmin/_processed_/d/5/csm_logo-UFRJ_f80cfe6c5b.png" style="height: 64px; width: auto; object-fit: contain;">
   </a>
 </div>

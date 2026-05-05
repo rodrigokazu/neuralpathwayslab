@@ -35,7 +35,7 @@
   highlight: 1
 
 - title: "Spatiotemporal spinal cord injury atlas"
-  image: mds_concept.png
+  image:
   description: I contribute to a large-scale spatiotemporal analysis of spinal cord injury using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package). The work identifies distinct cellular subtypes and their interactions across injury zones in both murine and human samples, providing new insights into potential therapeutic targets for spinal cord repair. Manuscript in preparation for Cell (Burnside et al.).
   interested: Emily R. Burnside, Rodrigo Kazu Siqueira, Yeliz Demirci, Julio Saez-Rodriguez, Frank Bradke and collaborators.
   link:
