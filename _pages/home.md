@@ -53,7 +53,7 @@ After industry and a fellowship at the Wellcome Sanger Institute, I joined the C
   Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Main collaborators include the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute.
 </div>
 
-<div style="margin-top: 50px; display: flex; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: 36px; padding: 16px 0;">
+<div markdown="0" class="logo-row" style="margin-top: 50px; display: flex; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: 36px; padding: 16px 0;">
   <a href="https://www.sheffield.ac.uk/sitran" target="_blank">
     <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="height: 56px; width: auto; max-width: 120px; object-fit: contain; display: block;">
   </a>
