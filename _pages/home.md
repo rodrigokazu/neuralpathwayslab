@@ -52,11 +52,23 @@ Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, Univer
 </div>
 
 <div style="text-align: justify; margin-top:100px">
-  Based at the [Sheffield Institute for Translational Neuroscience (SITraN)](https://www.sheffield.ac.uk/sitran), University of Sheffield, in collaboration with the [Snyder Lab](https://snyderlab.stanford.edu) at Stanford University.
+  Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Main collaborators include the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute.
 </div>
 
-<figure class="third">
-  <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="width: 110px; margin-right: 30px; margin-top: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NP-Sheffield_Logo.png" style="width: 110px; margin-right: 30px; margin-top: 25px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="width: 110px; margin-top: 25px">
-</figure>
+<div style="margin-top: 30px; display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
+  <a href="https://www.sheffield.ac.uk/sitran" target="_blank">
+    <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="height: 60px;">
+  </a>
+  <a href="https://www.sheffield.ac.uk/neuroscience-institute" target="_blank">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Neuroscience_Logo.jpg" style="height: 60px;">
+  </a>
+  <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/" target="_blank">
+    <img src="https://neuroscience.cam.ac.uk/wp-content/uploads/2023/07/uc-logo-small-white-text.png" style="height: 60px; background-color: #1B2B5B; padding: 6px; border-radius: 4px;">
+  </a>
+  <a href="https://snyderlab.stanford.edu" target="_blank">
+    <img src="https://www.designyourway.net/blog/wp-content/uploads/2024/04/the-meaning-behind-the-stanford-university-logo.png" style="height: 60px;">
+  </a>
+  <a href="https://www.sanger.ac.uk/group/bayraktar-group/" target="_blank">
+    <img src="https://www.sanger.ac.uk/wp-content/themes/www_sanger/dist/assets/svg/logos/logo-sanger-blue.svg" style="height: 60px;">
+  </a>
+</div>
