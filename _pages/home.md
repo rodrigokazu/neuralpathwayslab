@@ -28,16 +28,16 @@ Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, Univer
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/computational-neuroscience.png" alt="Slide 1" style="height:250px; width:500px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_pipeline.png" alt="Research pipeline: from multiome atlas to drug targets" style="height:250px; width:500px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/footsim.png" alt="Slide 2" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_grn.png" alt="WDR49+ astrocyte GRN and cell-cell communication" style="height:250px; width:500px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Sim1_collated.png" alt="Slide 3" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mds_concept.png" alt="Minimum Dominating Set conceptual framework" style="height:250px; width:500px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/brain_slice.jpg" alt="Slide 4" style="height:250px; width:500px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bayraktar_spatial.png" alt="Spatial transcriptomics of glioblastoma TAMs" style="height:250px; width:500px; object-fit:contain;" />
         </div>
     </div>
 

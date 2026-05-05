@@ -1,5 +1,5 @@
 - title: "ALS multiome atlas and network controllability"
-  image: paper1.png
+  image: als_multiome.png
   description: I lead the analysis of the largest ALS single-cell multiome atlas to date — 788,330 cells across 22 cell types from the human motor cortex — jointly profiled for gene expression and chromatin accessibility. From this atlas I infer cell-type-specific gene regulatory networks (eGRNs) and apply Minimum Dominating Set (MDS) analysis to identify the smallest group of master regulators whose combined reach covers the full network. Applied to WDR49+ astrocytes, the method prioritised 54 candidates, 21% of which independently emerged as significant exome hits in the NYGC rare variant dataset. The atlas manuscript is in preparation for Nature Genetics.
   interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder and collaborators.
   link:
@@ -8,7 +8,7 @@
   highlight: 1
 
 - title: "ALS spatial transcriptomics — spinal cord and motor cortex (Xenium)"
-  image: paper2.jpg
+  image: als_xenium.png
   description: I have performed comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches. A parallel dataset of the motor cortex — the first of its kind for ALS — is being generated and will be the spatial backbone of the MNDA fellowship project. These analyses feed into manuscripts in preparation for Nature Genetics and Nature.
   interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder, Andrew Strange and collaborators.
   link:
@@ -17,7 +17,7 @@
   highlight: 1
 
 - title: "scController — network controllability for single-cell and spatial omics"
-  image: paper3.png
+  image: mds_network.png
   description: As part of the MNDA fellowship project, I am developing scController, an open-source Python toolbox for applying Minimum Dominating Set analysis to eGRNs and spatial cell-type co-occurrence networks derived from single-cell and spatial omics data. The package will be integrated into the scverse ecosystem and benchmarked against state-of-the-art hub-extraction methods, complemented by new centrality measures developed in collaboration with Prof Bruno Mota.
   interested: Rodrigo Kazu Siqueira, Bruno Mota, Johnathan Cooper-Knock.
   link:
@@ -26,16 +26,16 @@
   highlight: 1
 
 - title: "Glioblastoma tumour-associated macrophages (Xenium)"
-  image: paper4.jpg
+  image: gbm_spatial.png
   description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute) and the Zhang laboratory (University of Florida), I apply machine learning models — including clustering and zero-shot models from the Novae package — to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
   interested: Rodrigo Kazu Siqueira, Qianqian Zhang, Grant de Jong, David Rowitch, Omer Bayraktar.
   link:
-    url:
-    display:
+    url: https://www.sanger.ac.uk/group/bayraktar-group/
+    display: Bayraktar group, Wellcome Sanger Institute
   highlight: 1
 
 - title: "Spatiotemporal spinal cord injury atlas"
-  image: paper1.png
+  image: mds_concept.png
   description: I contribute to a large-scale spatiotemporal analysis of spinal cord injury using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package). The work identifies distinct cellular subtypes and their interactions across injury zones in both murine and human samples, providing new insights into potential therapeutic targets for spinal cord repair. Manuscript in preparation for Cell (Burnside et al.).
   interested: Emily R. Burnside, Rodrigo Kazu Siqueira, Yeliz Demirci, Julio Saez-Rodriguez, Frank Bradke and collaborators.
   link:
@@ -45,7 +45,7 @@
 
 - title: "Selective pruning and neuronal death generate scale-free networks"
   image: paper3.png
-  description: Inspired by the ubiquity of component loss during brain development, we propose a simple directed network model in which less-connected nodes and edges are selectively deleted. The resulting networks robustly display scale-invariant degree distributions without fine-tuning, as long as the network is predominantly feed-forward. This suggests that neuronal and synaptic pruning during development are selective rather than random, and that preferential detachment is a general mechanism for generating scale-free networks alongside preferential attachment.
+  description: Inspired by the ubiquity of component loss during brain development, we propose a directed network model in which less-connected nodes and edges are selectively deleted. The resulting networks robustly display scale-invariant degree distributions without fine-tuning, as long as the network is predominantly feed-forward. This suggests neuronal and synaptic pruning during development are selective rather than random, and that preferential detachment is a general mechanism for generating scale-free networks alongside preferential attachment.
   interested: Rodrigo Kazu Siqueira, Kleber Neves, Bruno Mota.
   link:
     url: https://arxiv.org/abs/2408.02625
