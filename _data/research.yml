@@ -34,6 +34,15 @@
     display: Bayraktar group, Wellcome Sanger Institute
   highlight: 1
 
+- title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
+  image:
+  description: A comprehensive atlas of spinal cord injury mapping molecular and cellular architecture across space and time in both mouse and human tissue. An integrated single-cell transcriptomic atlas (167,493 cells, 18 broad cell types) is projected onto 10x Visium spatial transcriptomics sections from mice at 1, 3, 7, 14 and 28 days post-contusion injury using Cell2location. Cell-cell communication is inferred with MISTy and LIANA, revealing spatiotemporal tissue zonation — including distinct fibrotic core, glial scar, and spared grey matter compartments — and fine-grained macrophage and microglia subtype dynamics throughout the injury response. Manuscript in preparation for Cell.
+  interested: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Rodrigo Kazu Siqueira, Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke, Omer Bayraktar.
+  link:
+    url:
+    display:
+  highlight: 1
+
 - title: "Understanding oligodendrocyte dysfunction in Alzheimer's disease"
   image:
   description: Co-supervising a Master's student (Paulo) at the Applied Physics program, University of Brazil, on a multiomics project examining oligodendrocyte dysfunction in Alzheimer's disease using the latest dataset from the Kellis group (MIT). The project applies single-cell and multiome approaches to characterise glial cell-type-specific transcriptional changes in AD.

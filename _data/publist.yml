@@ -7,13 +7,13 @@
     display: In preparation — Nature Genetics
   highlight: 1
 
-- title: "Novel cell-specific insights from single-cell multiome profiling of diseased and healthy motor cortex"
+- title: "Astrocyte WDR49 function prevents amyotrophic lateral sclerosis"
   image: als_multiome.png
   description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors) — to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
   authors: Rodrigo Kazu Siqueira, Sam Bonsall, Marianne King, Andrew Strange, Sai Zhang, Jingtian Zhou, Charlotte van Dijk, Emma Monte, Tatyana Shelkovnikova, Kevin Kenna, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
     url:
-    display: In preparation — Nature Genetics
+    display: In preparation — Nature Neuroscience
   highlight: 1
 
 - title: "TDP-43 toxic gain of function links ALS/FTLD-TDP and Alzheimer's disease through splicing dysregulation"
@@ -53,22 +53,22 @@
   highlight: 1
 
 - title: "Modeling foot sole cutaneous afferents: FootSim"
-  image: paper2.jpeg
+  image: footsim.png
   description: FootSim is a realistic computational model of mechanoreceptor activation in the lower limb. It simulates neural spiking responses to arbitrary mechanical stimuli from all four types of mechanoreceptors innervating the foot sole, fitted to human microneurography recordings. The project won the INSIGNEO prize for best research.
   authors: Katic N, Kazu RS, Cleland L, ..., Bent L, Raspopovic S and Saal PH
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
     display: iScience, Vol. 26, Issue 1 (January 2023) — 23 citations
-  highlight: 0
+  highlight: 1
 
 - title: "White matter volume and white/gray matter ratio in mammalian species as a consequence of the universal scaling of cortical folding"
-  image:
+  image: pnas_white_matter.png
   description: Postulates that relative white matter volume is determined as the developing cortex settles in the most energetically favourable folded conformation, regardless of its number of neurons.
   authors: Mota B, Dos Santos SE, Ventura-Antunes L, Neves K, Kazu RS, Herculano-Houzel S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1716956116
     display: PNAS, Vol. 116, No. 30 (2019) — 68 citations
-  highlight: 0
+  highlight: 1
 
 - title: "Cellular scaling rules for the brain of Artiodactyla include a highly folded cortex with few neurons"
   image:
