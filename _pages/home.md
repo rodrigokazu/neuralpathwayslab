@@ -7,13 +7,11 @@ permalink: /
 
 <div style="margin-top: 50px; text-align:justify;">
 
-I am a Research Associate at the [Sheffield Institute for Translational Neuroscience (SITraN)](https://www.sheffield.ac.uk/sitran), University of Sheffield, working in the Cooper-Knock group within the [Snyder Lab](https://snyderlab.stanford.edu) collaboration at Stanford University. My work combines single-cell multiomics, spatial transcriptomics, and complex network theory to understand the gene programs that drive ALS/MND.
+I am a Brazilian-born British computational genomics researcher at the [Sheffield Institute for Translational Neuroscience (SITraN)](https://www.sheffield.ac.uk/sitran), University of Sheffield, jointly with the [Stanford Centre for Genomics and Personalized Medicine](https://snyderlab.stanford.edu), and affiliated with [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/).
 
-My current projects centre on two large-scale datasets. I lead the analysis of a 788,330-cell single-cell multiome atlas of the human motor cortex — the largest ALS dataset of its kind — from which I infer gene regulatory networks and apply Minimum Dominating Set (MDS) analysis to identify master regulators and candidate therapeutic targets across disease-relevant cell types. In parallel, I am generating and analysing the first spatial transcriptomics dataset of the ALS motor cortex using the 10x Genomics Xenium platform, alongside an existing 1.2M-cell Xenium atlas of ALS spinal cord.
+From a biology degree in Rio de Janeiro and a master's studying brain evolution in artiodactyls ([Frontiers in Neuroanatomy, 2014](https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full); [PNAS, 2019](https://www.pnas.org/doi/full/10.1073/pnas.1716956116)), I received a CNPq scholarship for a PhD in Cybernetics at the University of Reading, building open-source toolboxes for neuronal signal analysis. My first postdoc at the Active Touch Laboratory, Sheffield, produced FootSim — a computational model of tactile responses in the human foot sole designed to restore real-time sensory feedback to prosthetic limb users. It won the INSIGNEO Institute prize for best research and was published in [iScience (2022)](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?).
 
-I also contribute to collaborative projects on glioblastoma tumour-associated macrophages (Bayraktar Lab, Wellcome Sanger Institute) and spatiotemporal molecular architecture in spinal cord injury (Bradke group, DZNE).
-
-Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, University of Cambridge (2024–2025).
+After a stint in industry and a postdoctoral fellowship at the Wellcome Sanger Institute, I joined the Cooper-Knock lab at SITraN. I now lead the largest ALS single-cell multiome dataset assembled to date — 788,330 nuclei across 70 donors — mapping the regulatory architecture of motor neuron degeneration, including a WDR49+ astrocyte subpopulation that appears protective against the disease. In parallel, I have built an end-to-end 10x Xenium spatial transcriptomics pipeline applied to human post-mortem ALS/MND spinal cord, glioblastoma, and spinal cord injury tissue, integrating DOT-based deconvolution, spatial niche identification, and network controllability to spatially resolve GWAS-enriched cell populations and glial niche architecture. A third project linking TDP-43-mediated splicing dysregulation across ALS, FTD, and Alzheimer's disease is currently under review at Nature.
 
 </div>
 
@@ -28,16 +26,16 @@ Previously I was a Post-doctoral Fellow at the Wellcome Sanger Institute, Univer
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_pipeline.png" alt="Research pipeline: from multiome atlas to drug targets" style="height:250px; width:500px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_pipeline.png" alt="Research pipeline: from multiome atlas to drug targets" style="width:100%; max-height:420px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_grn.png" alt="WDR49+ astrocyte GRN and cell-cell communication" style="height:250px; width:500px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_grn.png" alt="WDR49+ astrocyte GRN and cell-cell communication" style="width:100%; max-height:420px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mds_concept.png" alt="Minimum Dominating Set conceptual framework" style="height:250px; width:500px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mds_concept.png" alt="Minimum Dominating Set conceptual framework" style="width:100%; max-height:420px; object-fit:contain;" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bayraktar_spatial.png" alt="Spatial transcriptomics of glioblastoma TAMs" style="height:250px; width:500px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bayraktar_spatial.png" alt="Spatial transcriptomics of glioblastoma TAMs" style="width:100%; max-height:420px; object-fit:contain;" />
         </div>
     </div>
 
