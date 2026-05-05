@@ -10,7 +10,7 @@
 - title: "Molecular correlates of TDP-43 pathology in human motor neurons revealed by spatial transcriptomics"
   image: als_xenium.png
   description: I have performed comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches. A parallel dataset of the motor cortex — the first of its kind for ALS — is being generated and will be the spatial backbone of the MNDA fellowship project. These analyses feed into manuscripts in preparation for Nature Genetics and Nature.
-  interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder, Andrew Strange and collaborators.
+  interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Andrew Strange and collaborators, Michael P. Snyder.
   link:
     url:
     display:
@@ -27,8 +27,8 @@
 
 - title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
-  description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute) and the Zhang laboratory (University of Florida), I apply machine learning models — including clustering and zero-shot models from the Novae package — to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
-  interested: Rodrigo Kazu Siqueira, Qianqian Zhang, Grant de Jong, David Rowitch, Omer Bayraktar.
+  description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute), I apply machine learning models — including clustering and zero-shot models from the Novae package — to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
+  interested: Rodrigo Kazu Siqueira, Grant de Jong, David Rowitch, Omer Bayraktar.
   link:
     url: https://www.sanger.ac.uk/group/bayraktar-group/
     display: Bayraktar group, Wellcome Sanger Institute
