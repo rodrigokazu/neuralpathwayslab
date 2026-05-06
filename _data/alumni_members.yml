@@ -1,5 +1,12 @@
+- name: Dr Kleber Neves
+  photo: kleber_new.jpg
+  info: Researcher and science policy professional, Serrapilheira Institute, Brazil.
+  email: klebertnajr@gmail.com
+  number_educ: 1
+  education1: Kleber Neves has a PhD in Neurosciences from the Federal University of Rio de Janeiro and was part of the coordinating team of the Brazilian Reproducibility Initiative. He is a Board Director at ASAPBio and works at the Serrapilheira Institute in science programme management. He is co-author on the selective pruning and neuronal death network paper.
+
 - name: Prof Bruno Mota
-  photo: dummy.png
+  photo: Bruno.jpeg
   info: Associate Professor, Federal University of Rio de Janeiro (metaBIO). Network science collaborator.
   email: bruno@if.ufrj.br
   number_educ: 1
@@ -13,7 +20,7 @@
   education1: Dr Cooper-Knock leads a research group focused on the genetic causes of ALS/MND at SITraN. His lab holds the largest ALS multiome atlas to date and leads the Project MinE whole-genome sequencing initiative. He is co-applicant on the MNDA fellowship application and provides world-class ALS domain expertise to the project.
 
 - name: Prof Michael P. Snyder
-  photo: dummy.png
+  photo: Snyder.jpg
   info: Professor and Chair of Genetics, Stanford University. Snyder Lab collaboration.
   email: mpsnyder@stanford.edu
   number_educ: 1
@@ -25,17 +32,3 @@
   email: ob5@sanger.ac.uk
   number_educ: 1
   education1: Omer Bayraktar leads a research group at the Wellcome Sanger Institute focused on spatial transcriptomics of the brain and nervous system. Rodrigo was a Post-doctoral Fellow in the Bayraktar lab in 2024–2025, working on glioblastoma tumour-associated macrophages using Xenium spatial transcriptomics.
-
-- name: Dr Kleber Neves
-  photo: dummy.png
-  info: Researcher and science policy professional, Serrapilheira Institute, Brazil.
-  email: klebertnajr@gmail.com
-  number_educ: 1
-  education1: Kleber Neves has a PhD in Neurosciences from the Federal University of Rio de Janeiro and was part of the coordinating team of the Brazilian Reproducibility Initiative. He is a Board Director at ASAPBio and works at the Serrapilheira Institute in science programme management. He is co-author on the selective pruning and neuronal death network paper.
-
-- name: Dr Hannes P Saal
-  photo: Hannes.jpg
-  info: Associate Professor, University of Sheffield. FootSim collaboration.
-  email: h.saal@sheffield.ac.uk
-  number_educ: 1
-  education1: Hannes Saal leads a computational neuroscience lab at the University of Sheffield focused on the sense of touch. He was the senior author on the FootSim paper (iScience 2022).
