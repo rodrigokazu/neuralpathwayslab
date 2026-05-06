@@ -1,9 +1,9 @@
-- name: Dr Kleber Neves
-  photo: kleber_new.jpg
-  info: Researcher and science policy professional, Serrapilheira Institute, Brazil.
-  email: klebertnajr@gmail.com
+- name: Prof Johnathan Cooper-Knock
+  photo: JCK.png
+  info: NIHR Clinical Lecturer, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield. Lab Head.
+  email: j.cooper-knock@sheffield.ac.uk
   number_educ: 1
-  education1: Kleber Neves has a PhD in Neurosciences from the Federal University of Rio de Janeiro and was part of the coordinating team of the Brazilian Reproducibility Initiative. He is a Board Director at ASAPBio and works at the Serrapilheira Institute in science programme management. He is co-author on the selective pruning and neuronal death network paper.
+  education1: Dr Cooper-Knock leads a research group focused on the genetic causes of ALS/MND at SITraN. His lab holds the largest ALS multiome atlas to date and leads the Project MinE whole-genome sequencing initiative. He is co-applicant on the MNDA fellowship application and provides world-class ALS domain expertise to the project.
 
 - name: Prof Bruno Mota
   photo: Bruno.jpeg
@@ -12,12 +12,12 @@
   number_educ: 1
   education1: Bruno Mota is an Associate Professor at the Federal University of Rio de Janeiro and head of the metaBIO group. He works on complex networks, brain morphology, and computational biology. He is co-author on the selective pruning network paper and collaborates on the development of new centrality measures to complement MDS analysis in the scController project.
 
-- name: Prof Johnathan Cooper-Knock
-  photo: JCK.png
-  info: NIHR Clinical Lecturer, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield. Lab Head.
-  email: j.cooper-knock@sheffield.ac.uk
+- name: Dr Kleber Neves
+  photo: kleber_new.jpg
+  info: Researcher and science policy professional, Serrapilheira Institute, Brazil.
+  email: klebertnajr@gmail.com
   number_educ: 1
-  education1: Dr Cooper-Knock leads a research group focused on the genetic causes of ALS/MND at SITraN. His lab holds the largest ALS multiome atlas to date and leads the Project MinE whole-genome sequencing initiative. He is co-applicant on the MNDA fellowship application and provides world-class ALS domain expertise to the project.
+  education1: Kleber Neves has a PhD in Neurosciences from the Federal University of Rio de Janeiro and was part of the coordinating team of the Brazilian Reproducibility Initiative. He is a Board Director at ASAPBio and works at the Serrapilheira Institute in science programme management. He is co-author on the selective pruning and neuronal death network paper.
 
 - name: Prof Michael P. Snyder
   photo: Snyder.jpg
