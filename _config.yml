@@ -10,8 +10,8 @@ title: NeuralPathways Lab
 email: r.siqueiradesouza@sheffield.ac.uk
 description: >
   Personal research website of Dr Rodrigo Kazu Siqueira — Bioinformatics, Single-Cell Multiomics & Spatial Transcriptomics at SITraN, University of Sheffield.
-baseurl: "/Victhagas"
-url: "https://victhagas.github.io"
+baseurl: "/neuralpathwayslab"
+url: "https://rodrigokazu.github.io"
 
 include:
   - .htaccess
