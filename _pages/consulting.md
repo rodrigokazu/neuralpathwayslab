@@ -5,6 +5,70 @@ sitemap: false
 permalink: /consulting/
 ---
 
+<style>
+.service-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-left: 4px solid #337ab7;
+  border-radius: 4px;
+  padding: 24px 24px 18px;
+  min-height: 240px;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+  margin-bottom: 20px;
+}
+.service-card:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+  transform: translateY(-2px);
+}
+.service-card .card-icon {
+  font-size: 28px;
+  color: #337ab7;
+  margin-bottom: 12px;
+}
+.service-card h4 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-weight: 600;
+  color: #222;
+}
+.service-card p {
+  color: #555;
+  font-size: 14px;
+  line-height: 1.6;
+}
+.pricing-card {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  border-top: 3px solid #337ab7;
+  border-radius: 4px;
+  padding: 22px 20px 16px;
+  min-height: 160px;
+  text-align: center;
+  transition: box-shadow 0.2s ease;
+  margin-bottom: 20px;
+}
+.pricing-card:hover {
+  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
+}
+.pricing-card h4 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-weight: 600;
+  color: #222;
+}
+.pricing-card p {
+  color: #555;
+  font-size: 13px;
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+.pricing-card .price {
+  font-size: 18px;
+  font-weight: 700;
+  color: #337ab7;
+}
+</style>
+
 <div style="margin-top: 45px;">
 
 ### Consulting & Expert Services
@@ -17,17 +81,19 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 </div>
 
-<div class="row" style="margin-bottom: 30px;">
+<div class="row">
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-dna"></i></div>
 <h4>Single-Cell & Multiome Pipeline Build</h4>
 <p>End-to-end scRNA-seq or multiome analysis: from raw data to a reproducible, documented scanpy/SnapATAC2 pipeline running on your HPC. Built on experience with 788,330-nucleus ALS datasets.</p>
 </div>
 </div>
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-microscope"></i></div>
 <h4>Spatial Transcriptomics Analysis</h4>
 <p>Xenium, Visium, or CosMx from raw to publication-ready figures: QC, segmentation, cell typing, niche analysis (NicheCompass/Novae), and DOT deconvolution. Experience with 1.2M-cell Xenium datasets across ALS, glioblastoma, and spinal cord injury.</p>
 </div>
@@ -35,17 +101,19 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 </div>
 
-<div class="row" style="margin-bottom: 30px;">
+<div class="row">
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-chart-bar"></i></div>
 <h4>Differential Abundance & Composition</h4>
 <p>Milo neighbourhood-level differential abundance and scCODA compositional analysis with proper statistical design, batch correction, and publication-quality figures — the analysis most labs get wrong.</p>
 </div>
 </div>
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-project-diagram"></i></div>
 <h4>Gene Regulatory Network Inference</h4>
 <p>Cell-type-specific GRN reconstruction, network controllability (Minimum Dominating Set), and integration with GWAS/scDRS for variant-to-mechanism mapping. A scarce skill set at the intersection of network science and genomics.</p>
 </div>
@@ -53,17 +121,19 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 </div>
 
-<div class="row" style="margin-bottom: 30px;">
+<div class="row">
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-server"></i></div>
 <h4>Reproducibility & Scale Rescue</h4>
 <p>Your pipeline doesn't scale or reproduce? I make it run on SLURM for 1M+ cells with clean environments, version-pinned dependencies, and documented workflows.</p>
 </div>
 </div>
 
 <div class="col-sm-6 clearfix">
-<div class="well" style="min-height: 260px;">
+<div class="service-card">
+<div class="card-icon"><i class="fas fa-pen-fancy"></i></div>
 <h4>Methods & Figures for Manuscripts</h4>
 <p>Analysis methods sections, publication-quality figure panels, and reproducible code repos — bridging the gap between raw results and a polished submission.</p>
 </div>
@@ -89,47 +159,43 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 ### Engagement Models
 
-<div class="row" style="margin-top: 20px; margin-bottom: 30px;">
+<div class="row" style="margin-top: 20px;">
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-<div class="well" style="min-height: 140px;">
-<h4>Project / fixed scope</h4>
-<p>Defined deliverable (e.g. Xenium analysis of N samples to figures)</p>
-<p><strong>From £1,500 per project</strong></p>
+<div class="col-sm-3 clearfix">
+<div class="pricing-card">
+<h4>Project</h4>
+<p>Defined deliverable, e.g. Xenium analysis of N samples to figures</p>
+<div class="price">From £1,500</div>
 </div>
 </div>
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-<div class="well" style="min-height: 140px;">
+<div class="col-sm-3 clearfix">
+<div class="pricing-card">
 <h4>Hourly</h4>
 <p>Small, scoped, or exploratory tasks</p>
-<p><strong>£80 to £150 / hr</strong></p>
+<div class="price">£80 to £150 / hr</div>
 </div>
 </div>
 
-</div>
-
-<div class="row" style="margin-bottom: 30px;">
-
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-<div class="well" style="min-height: 140px;">
+<div class="col-sm-3 clearfix">
+<div class="pricing-card">
 <h4>Retainer</h4>
 <p>Ongoing analysis support for a lab or startup</p>
-<p><strong>£800 to £3,000 / month</strong></p>
+<div class="price">£800 to £3,000 / mo</div>
 </div>
 </div>
 
-<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
-<div class="well" style="min-height: 140px;">
+<div class="col-sm-3 clearfix">
+<div class="pricing-card">
 <h4>Day rate</h4>
-<p>Workshops or intensive on-site/remote analysis days</p>
-<p><strong>£500 to £900 / day</strong></p>
+<p>Workshops or intensive analysis days</p>
+<div class="price">£500 to £900 / day</div>
 </div>
 </div>
 
 </div>
 
-<div style="text-align: justify; margin-bottom: 30px;">
+<div style="text-align: center; color: #777; margin-top: 10px; margin-bottom: 30px; font-size: 13px;">
 50% deposit on project engagements. All work delivered with reproducible code and documentation.
 </div>
 
