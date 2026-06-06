@@ -92,9 +92,9 @@ I take on a limited number of remote consulting engagements alongside my academi
 | Model | Best for | Indicative rate |
 |-------|----------|-----------------|
 | **Project / fixed scope** | Defined deliverable (e.g. Xenium analysis of N samples to figures) | From £1,500 per project |
-| **Hourly** | Small, scoped, or exploratory tasks | £80 -- £150 / hr |
-| **Retainer** | Ongoing analysis support for a lab or startup | £800 -- £3,000 / month |
-| **Day rate** | Workshops or intensive on-site/remote analysis days | £500 -- £900 / day |
+| **Hourly** | Small, scoped, or exploratory tasks | £80 to £150 / hr |
+| **Retainer** | Ongoing analysis support for a lab or startup | £800 to £3,000 / month |
+| **Day rate** | Workshops or intensive on-site/remote analysis days | £500 to £900 / day |
 
 <div style="text-align: justify; margin-top: 15px; margin-bottom: 30px;">
 50% deposit on project engagements. All work delivered with reproducible code and documentation.
