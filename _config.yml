@@ -6,12 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: NeuralPathways Lab
+title: Dr Rodrigo Kazu Siqueira | NeuralPathways Lab
 email: r.siqueiradesouza@sheffield.ac.uk
 description: >
-  Personal research website of Dr Rodrigo Kazu Siqueira — Bioinformatics, Single-Cell Multiomics & Spatial Transcriptomics at SITraN, University of Sheffield.
+  Dr Rodrigo Kazu Siqueira — Computational Genomics Researcher at SITraN (University of Sheffield) and Stanford. Single-cell multiomics, spatial transcriptomics, ALS/MND, and bioinformatics consulting.
 baseurl: "/neuralpathwayslab"
 url: "https://rodrigokazu.github.io"
+
+plugins:
+  - jekyll-sitemap
 
 include:
   - .htaccess

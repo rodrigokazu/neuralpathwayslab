@@ -1,7 +1,7 @@
 ---
-title: "NeuralPathways Lab - Home"
+title: "Dr Rodrigo Kazu Siqueira | NeuralPathways Lab"
 layout: homelay
-sitemap: false 
+sitemap: true
 permalink: /
 ---
 

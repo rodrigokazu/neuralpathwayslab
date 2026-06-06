@@ -1,7 +1,7 @@
 ---
 title: "NeuralPathways Lab - Consulting"
 layout: page
-sitemap: false
+sitemap: true
 permalink: /consulting/
 ---
 

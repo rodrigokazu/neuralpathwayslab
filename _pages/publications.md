@@ -1,7 +1,7 @@
 ---
 title: "NeuralPathways Lab - Publications"
 layout: gridlay
-sitemap: false
+sitemap: true
 permalink: /publications/
 ---
 

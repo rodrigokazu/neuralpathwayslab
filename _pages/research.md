@@ -1,7 +1,7 @@
 ---
 title: "Neural Pathways Lab - Current projects"
 layout: gridlay
-sitemap: false
+sitemap: true
 permalink: /research/
 ---
 
