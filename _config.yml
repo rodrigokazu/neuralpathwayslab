@@ -10,8 +10,8 @@ title: Dr Rodrigo Kazu Siqueira | NeuralPathways Lab
 email: r.siqueiradesouza@sheffield.ac.uk
 description: >
   Dr Rodrigo Kazu Siqueira — Computational Genomics Researcher at SITraN (University of Sheffield) and Stanford. Single-cell multiomics, spatial transcriptomics, ALS/MND, and bioinformatics consulting.
-baseurl: "/neuralpathwayslab"
-url: "https://rodrigokazu.github.io"
+baseurl: ""
+url: "https://theneuralpathways.co.uk"
 
 plugins:
   - jekyll-sitemap
