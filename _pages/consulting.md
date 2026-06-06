@@ -106,27 +106,11 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 <div style="text-align: justify; margin-bottom: 30px;">
 
-Interested in working together? Book a free 20-minute scoping call or send an enquiry:
+Interested in working together? Book a free 30-minute scoping call or send an enquiry:
 
 <div style="margin-top: 20px; margin-bottom: 20px;">
-<a href="mailto:r.siqueiradesouza@sheffield.ac.uk" class="btn btn-primary btn-lg" style="margin-right: 10px;">Email me</a>
-<a href="https://scholar.google.co.uk/citations?user=GJbKFKYAAAAJ" class="btn btn-default btn-lg" style="margin-right: 10px;">Google Scholar</a>
-<a href="https://orcid.org/0000-0003-1107-4875" class="btn btn-default btn-lg">ORCID</a>
+<a href="https://calendar.app.google/1BfUFVCYa7b9PDRTA" class="btn btn-primary btn-lg" style="margin-right: 10px;">Book a 30-min call</a>
+<a href="mailto:r.siqueiradesouza@sheffield.ac.uk" class="btn btn-default btn-lg" style="margin-right: 10px;">Email me</a>
 </div>
 
-</div>
-
-<div markdown="0" class="logo-row" style="margin-top: 30px; display: flex; flex-wrap: nowrap; align-items: center; justify-content: flex-start; gap: 36px; padding: 16px 0;">
-  <a href="https://www.sheffield.ac.uk/sitran" target="_blank">
-    <img src="https://images.easyfundraising.org.uk/cause/cropped/charity129220.png" style="height: 56px; width: auto; max-width: 120px; object-fit: contain; display: block;">
-  </a>
-  <a href="https://snyderlab.stanford.edu" target="_blank">
-    <img src="https://www.designyourway.net/blog/wp-content/uploads/2024/04/the-meaning-behind-the-stanford-university-logo.png" style="height: 56px; width: auto; max-width: 120px; object-fit: contain; display: block;">
-  </a>
-  <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/" target="_blank">
-    <img src="https://download.logo.wine/logo/University_of_Cambridge/University_of_Cambridge-Logo.wine.png" style="height: 56px; width: auto; max-width: 140px; object-fit: contain; display: block;">
-  </a>
-  <a href="https://www.sanger.ac.uk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wellcome_Sanger_Institute_Logo_Landscape_Digital_RGB_Full_Colour.svg/1280px-Wellcome_Sanger_Institute_Logo_Landscape_Digital_RGB_Full_Colour.svg.png" style="height: 56px; width: auto; max-width: 160px; object-fit: contain; display: block;">
-  </a>
 </div>
