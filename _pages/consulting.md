@@ -89,14 +89,47 @@ I take on a limited number of remote consulting engagements alongside my academi
 
 ### Engagement Models
 
-| Model | Best for | Indicative rate |
-|-------|----------|-----------------|
-| **Project / fixed scope** | Defined deliverable (e.g. Xenium analysis of N samples to figures) | From £1,500 per project |
-| **Hourly** | Small, scoped, or exploratory tasks | £80 to £150 / hr |
-| **Retainer** | Ongoing analysis support for a lab or startup | £800 to £3,000 / month |
-| **Day rate** | Workshops or intensive on-site/remote analysis days | £500 to £900 / day |
+<div class="row" style="margin-top: 20px; margin-bottom: 30px;">
 
-<div style="text-align: justify; margin-top: 15px; margin-bottom: 30px;">
+<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
+<div class="well" style="min-height: 140px;">
+<h4>Project / fixed scope</h4>
+<p>Defined deliverable (e.g. Xenium analysis of N samples to figures)</p>
+<p><strong>From £1,500 per project</strong></p>
+</div>
+</div>
+
+<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
+<div class="well" style="min-height: 140px;">
+<h4>Hourly</h4>
+<p>Small, scoped, or exploratory tasks</p>
+<p><strong>£80 to £150 / hr</strong></p>
+</div>
+</div>
+
+</div>
+
+<div class="row" style="margin-bottom: 30px;">
+
+<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
+<div class="well" style="min-height: 140px;">
+<h4>Retainer</h4>
+<p>Ongoing analysis support for a lab or startup</p>
+<p><strong>£800 to £3,000 / month</strong></p>
+</div>
+</div>
+
+<div class="col-sm-6 clearfix" style="margin-bottom: 20px;">
+<div class="well" style="min-height: 140px;">
+<h4>Day rate</h4>
+<p>Workshops or intensive on-site/remote analysis days</p>
+<p><strong>£500 to £900 / day</strong></p>
+</div>
+</div>
+
+</div>
+
+<div style="text-align: justify; margin-bottom: 30px;">
 50% deposit on project engagements. All work delivered with reproducible code and documentation.
 </div>
 
