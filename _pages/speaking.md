@@ -83,7 +83,7 @@ permalink: /speaking/
 </style>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>I give keynote and invited talks at industry conferences, pharma symposia, biotech events, and spatial-omics vendor meetings. My work on the largest ALS multiome atlas assembled to date and on 1.2M-cell Xenium spatial datasets is the kind of large-scale, real-world single-cell and spatial science that user meetings and genomics congresses want to showcase. Talks can be tailored from a 20-minute vendor showcase to a full conference keynote or hands-on tutorial.</p>
+<p>I give keynote and invited talks at industry conferences, pharma symposia, biotech events, and spatial-omics vendor meetings. My work on the largest ALS multiome atlas assembled to date and on 1.2M-cell Xenium spatial datasets is the kind of large-scale, real-world single-cell and spatial science that user meetings and genomics congresses want on their programme. Talks can be tailored from a 20-minute vendor showcase to a full conference keynote or hands-on tutorial.</p>
 </div>
 
 <div markdown="0" class="services-grid">
@@ -91,37 +91,37 @@ permalink: /speaking/
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-dna"></i></div>
 <h4>Building the Largest ALS Multiome Atlas</h4>
-<p>How we assembled and analysed a 788,330-nucleus, 70-donor ALS multiome atlas — design decisions, batch architecture, and what scale reveals about motor neuron and glial vulnerability that smaller studies miss.</p>
+<p>How we assembled and analysed a 788,330-nucleus, 70-donor ALS multiome atlas, and what that scale reveals about motor neuron and glial vulnerability that smaller studies miss.</p>
 </div>
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-microscope"></i></div>
 <h4>Spatial Transcriptomics at 1.2M Cells</h4>
-<p>A practitioner's tour of a 1.2M-cell 10x Xenium pipeline across ALS/MND, glioblastoma, and spinal cord injury: segmentation, cell typing, niche analysis, and deconvolution — what works, what breaks, and what to budget for. Ideal for vendor user meetings (10x Genomics, NanoString/Bruker, Vizgen).</p>
+<p>A practitioner's tour of a 1.2M-cell 10x Xenium pipeline across ALS/MND, glioblastoma, and spinal cord injury: segmentation, cell typing, niche analysis, and deconvolution, with honest notes on what works, what breaks, and what to budget for. Ideal for vendor user meetings (10x Genomics, NanoString/Bruker, Vizgen).</p>
 </div>
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-chart-bar"></i></div>
 <h4>Differential Abundance Done Right</h4>
-<p>Why most labs get compositional and neighbourhood-level differential abundance wrong, and how Milo and scCODA — with proper statistical design and batch correction — change what you can claim from single-cell data.</p>
+<p>Why most labs get compositional and neighbourhood-level differential abundance wrong, and how Milo and scCODA, with proper statistical design and batch correction, change what you can claim from single-cell data.</p>
 </div>
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-project-diagram"></i></div>
 <h4>From Variant to Mechanism</h4>
-<p>Cell-type-specific gene regulatory networks, network controllability (Minimum Dominating Set), and GWAS/scDRS integration — connecting disease genetics to regulatory mechanism at the intersection of network science and genomics.</p>
+<p>Cell-type-specific gene regulatory networks, network controllability (Minimum Dominating Set), and GWAS/scDRS integration, to connect disease genetics to regulatory mechanism where network science meets genomics.</p>
 </div>
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-server"></i></div>
 <h4>Single-Cell Genomics at HPC Scale</h4>
-<p>Engineering reproducible scanpy/SnapATAC2 workflows that run on SLURM for 1M+ cells — environments, version pinning, and the practical realities of scaling analysis beyond a laptop. A methods-and-infrastructure talk for technical audiences.</p>
+<p>Engineering reproducible scanpy/SnapATAC2 workflows that run on SLURM for 1M+ cells: environments, version pinning, and what it actually takes to scale analysis beyond a laptop. A methods and infrastructure talk for technical audiences.</p>
 </div>
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-comments"></i></div>
 <h4>Panels, Fireside Chats & Tutorials</h4>
-<p>Available for moderated panels, fireside discussions, and hands-on workshops on single-cell multiomics, spatial biology, and computational neuroscience — formats tailored to your audience and run time.</p>
+<p>Available for moderated panels, fireside discussions, and hands-on workshops on single-cell multiomics, spatial biology, and computational neuroscience, in formats tailored to your audience and run time.</p>
 </div>
 
 </div>
@@ -132,9 +132,9 @@ permalink: /speaking/
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **Invited talk — Kellis Lab, MIT** (computational genomics)
-- **Genomics @ Scale**, Cambridge — accepted
-- **MND Association (MNDA) Main Meeting** — invited
+- **Invited talk at the Kellis Lab, MIT** (computational genomics)
+- **Genomics @ Scale**, Cambridge (accepted)
+- **MND Association (MNDA) Main Meeting** (invited)
 - **Society for Neuroscience (SfN) Main Meeting**
 - Multiple additional invited talks and seminars across the UK and US
 
@@ -147,10 +147,24 @@ permalink: /speaking/
 <div style="text-align: justify; margin-bottom: 20px;">
 
 - **PhD in Cybernetics** (University of Reading) with postdoctoral research at the Wellcome Sanger Institute, University of Cambridge, University of Sheffield, and Stanford University (Snyder Lab)
-- **788,330-nucleus ALS multiome atlas** — the largest assembled to date (70 donors)
+- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors)
 - **1.2M-cell 10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
 - Published in **PNAS** (68 citations), **iScience** (23 citations, INSIGNEO prize, international press), with a manuscript under review at **Nature**
 - Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
+
+</div>
+
+<hr>
+
+<h3>Selected Media Coverage</h3>
+
+<div style="text-align: justify; margin-bottom: 20px;">
+
+My work on FootSim, a digital model of the human foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)), was covered internationally after publication:
+
+- *The Engineer* (UK): ["Digital foot could enhance neuroprosthetics"](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics)
+- *Medical Xpress*: ["Digital foot model could revolutionize bionic limbs"](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)
+- *O Globo* (Brazil, national press): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
 
 </div>
 

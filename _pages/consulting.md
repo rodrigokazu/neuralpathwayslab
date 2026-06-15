@@ -83,7 +83,7 @@ permalink: /consulting/
 </style>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>I take on a limited number of remote consulting engagements alongside my academic research. If your team needs specialist analysis capacity in single-cell genomics, spatial transcriptomics, or computational neuroscience, I can help — from a one-off pipeline build to ongoing analytical support.</p>
+<p>I take on a limited number of remote consulting engagements alongside my academic research. If your team needs specialist analysis capacity in single-cell genomics, spatial transcriptomics, or computational neuroscience, I can help, whether that is a one-off pipeline build or ongoing analytical support.</p>
 </div>
 
 <div markdown="0" class="services-grid">
@@ -103,7 +103,7 @@ permalink: /consulting/
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-chart-bar"></i></div>
 <h4>Differential Abundance & Composition</h4>
-<p>Milo neighbourhood-level differential abundance and scCODA compositional analysis with proper statistical design, batch correction, and publication-quality figures — the analysis most labs get wrong.</p>
+<p>Milo neighbourhood-level differential abundance and scCODA compositional analysis with proper statistical design, batch correction, and publication-quality figures. It is the analysis most labs get wrong.</p>
 </div>
 
 <div class="service-card">
@@ -121,7 +121,7 @@ permalink: /consulting/
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-pen-fancy"></i></div>
 <h4>Methods & Figures for Manuscripts</h4>
-<p>Analysis methods sections, publication-quality figure panels, and reproducible code repos — bridging the gap between raw results and a polished submission.</p>
+<p>Analysis methods sections, publication-quality figure panels, and reproducible code repos that bridge the gap between raw results and a polished submission.</p>
 </div>
 
 </div>
@@ -133,10 +133,24 @@ permalink: /consulting/
 <div style="text-align: justify; margin-bottom: 20px;">
 
 - **PhD in Cybernetics** (University of Reading) with postdoctoral research at the Wellcome Sanger Institute, University of Cambridge, University of Sheffield, and Stanford University (Snyder Lab)
-- **788,330-nucleus ALS multiome atlas** — the largest assembled to date (70 donors)
+- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors)
 - **1.2M-cell 10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
 - Published in **PNAS** (68 citations), **iScience** (23 citations, INSIGNEO prize, international press), with a manuscript under review at **Nature**
 - Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
+
+</div>
+
+<hr>
+
+<h3>Selected Media Coverage</h3>
+
+<div style="text-align: justify; margin-bottom: 20px;">
+
+My work on FootSim, a digital model of the human foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)), was covered internationally after publication:
+
+- *The Engineer* (UK): ["Digital foot could enhance neuroprosthetics"](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics)
+- *Medical Xpress*: ["Digital foot model could revolutionize bionic limbs"](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)
+- *O Globo* (Brazil, national press): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
 
 </div>
 

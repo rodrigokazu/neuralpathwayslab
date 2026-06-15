@@ -1,6 +1,6 @@
 - title: "ALS multiome atlas and network controllability"
   image: als_multiome.png
-  description: I lead the analysis of the largest ALS single-cell multiome atlas to date — 788,330 cells across 22 cell types from the human motor cortex — jointly profiled for gene expression and chromatin accessibility. From this atlas I infer cell-type-specific gene regulatory networks (eGRNs) and apply Minimum Dominating Set (MDS) analysis to identify the smallest group of master regulators whose combined reach covers the full network. Applied to WDR49+ astrocytes, the method prioritised 54 candidates, 21% of which independently emerged as significant exome hits in the NYGC rare variant dataset. The atlas manuscript is in preparation for Nature Genetics.
+  description: I lead the analysis of the largest ALS single-cell multiome atlas to date (788,330 cells across 22 cell types from the human motor cortex), jointly profiled for gene expression and chromatin accessibility. From this atlas I infer cell-type-specific gene regulatory networks (eGRNs) and apply Minimum Dominating Set (MDS) analysis to identify the smallest group of master regulators whose combined reach covers the full network. Applied to WDR49+ astrocytes, the method prioritised 54 candidates, 21% of which independently emerged as significant exome hits in the NYGC rare variant dataset. The atlas manuscript is in preparation for Nature Genetics.
   interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Michael P. Snyder and collaborators.
   link:
     url: https://arxiv.org/abs/2408.02625
@@ -9,14 +9,14 @@
 
 - title: "Molecular correlates of TDP-43 pathology in human motor neurons revealed by spatial transcriptomics"
   image: als_xenium.png
-  description: I have performed comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches. A parallel dataset of the motor cortex — the first of its kind for ALS — is being generated and will be the spatial backbone of the MNDA fellowship project. These analyses feed into manuscripts in preparation for Nature Genetics and Nature.
+  description: I have performed spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches. A parallel dataset of the motor cortex, the first of its kind for ALS, is being generated and will be the spatial backbone of the MNDA fellowship project. These analyses feed into manuscripts in preparation for Nature Genetics and Nature.
   interested: Rodrigo Kazu Siqueira, Johnathan Cooper-Knock, Andrew Strange and collaborators, Michael P. Snyder.
   link:
     url:
     display:
   highlight: 1
 
-- title: "scController — network controllability for single-cell and spatial omics"
+- title: "scController: network controllability for single-cell and spatial omics"
   image: mds_network.png
   description: As part of the MNDA fellowship project, I am developing scController, an open-source Python toolbox for applying Minimum Dominating Set analysis to eGRNs and spatial cell-type co-occurrence networks derived from single-cell and spatial omics data. The package will be integrated into the scverse ecosystem and benchmarked against state-of-the-art hub-extraction methods, complemented by new centrality measures developed in collaboration with Prof Bruno Mota.
   interested: Rodrigo Kazu Siqueira, Bruno Mota, Johnathan Cooper-Knock.
@@ -27,7 +27,7 @@
 
 - title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
-  description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute), I apply machine learning models — including clustering and zero-shot models from the Novae package — to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
+  description: In collaboration with the Bayraktar lab (Wellcome Sanger Institute), I apply machine learning models (including clustering and zero-shot models from the Novae package) to Xenium spatial transcriptomics and multiome data from glioblastoma samples. I identify distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment, with the aid of NicheCompass for cellular niche computation. Manuscript in preparation for Nature.
   interested: Rodrigo Kazu Siqueira, Grant de Jong, David Rowitch, Omer Bayraktar.
   link:
     url: https://www.sanger.ac.uk/group/bayraktar-group/
@@ -36,7 +36,7 @@
 
 - title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
   image:
-  description: A comprehensive atlas of spinal cord injury mapping molecular and cellular architecture across space and time in both mouse and human tissue. An integrated single-cell transcriptomic atlas (167,493 cells, 18 broad cell types) is projected onto 10x Visium spatial transcriptomics sections from mice at 1, 3, 7, 14 and 28 days post-contusion injury using Cell2location. Cell-cell communication is inferred with MISTy and LIANA, revealing spatiotemporal tissue zonation — including distinct fibrotic core, glial scar, and spared grey matter compartments — and fine-grained macrophage and microglia subtype dynamics throughout the injury response. Manuscript in preparation for Cell.
+  description: An atlas of spinal cord injury mapping molecular and cellular architecture across space and time in both mouse and human tissue. An integrated single-cell transcriptomic atlas (167,493 cells, 18 broad cell types) is projected onto 10x Visium spatial transcriptomics sections from mice at 1, 3, 7, 14 and 28 days post-contusion injury using Cell2location. Cell-cell communication is inferred with MISTy and LIANA, revealing spatiotemporal tissue zonation (including distinct fibrotic core, glial scar, and spared grey matter compartments) and fine-grained macrophage and microglia subtype dynamics throughout the injury response. Manuscript in preparation for Cell.
   interested: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Rodrigo Kazu Siqueira, Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke, Omer Bayraktar.
   link:
     url:

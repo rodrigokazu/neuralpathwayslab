@@ -1,19 +1,19 @@
 - title: "Molecular correlates of TDP-43 pathology in human motor neurons revealed by spatial transcriptomics"
   image: als_xenium.png
-  description: Comprehensive spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches.
+  description: Spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches.
   authors: Rodrigo Kazu Siqueira, Andrew Strange, Sam Bonsall, Chenchen Zhu, Robin Highley, Daniel Fillingham, Sai Zhang, Jingtian Zhou, Emma Monte, Eran Hornstein, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
     url:
-    display: In preparation — Nature Genetics
+    display: In preparation, Nature Genetics
   highlight: 1
 
 - title: "Astrocyte WDR49 function prevents amyotrophic lateral sclerosis"
   image: wdr49_fig1.png
-  description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors) — to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
+  description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors), to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
   authors: Rodrigo Kazu Siqueira, Sam Bonsall, Marianne King, Andrew Strange, Sai Zhang, Jingtian Zhou, Charlotte van Dijk, Emma Monte, Tatyana Shelkovnikova, Kevin Kenna, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
   link:
     url:
-    display: In preparation — Nature Neuroscience
+    display: In preparation, Nature Neuroscience
   highlight: 1
 
 - title: "TDP-43 toxic gain of function links ALS/FTLD-TDP and Alzheimer's disease through splicing dysregulation"
@@ -31,7 +31,7 @@
   authors: Qianqian Zhang, Grant de Jong, Kazu R.S., David Rowitch, Omer Bayraktar
   link:
     url:
-    display: In preparation — Nature
+    display: In preparation, Nature
   highlight: 1
 
 - title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
@@ -40,7 +40,7 @@
   authors: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Kazu R.S., Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke
   link:
     url:
-    display: In preparation — Cell
+    display: In preparation, Cell
   highlight: 0
 
 - title: "Selective pruning and neuronal death generate heavy-tail network connectivity"
@@ -58,7 +58,7 @@
   authors: Katic N, Kazu RS, Cleland L, ..., Bent L, Raspopovic S and Saal PH
   link:
     url: https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?
-    display: iScience, Vol. 26, Issue 1 (January 2023) — 23 citations
+    display: iScience, Vol. 26, Issue 1 (January 2023), 23 citations
   highlight: 1
 
 - title: "White matter volume and white/gray matter ratio in mammalian species as a consequence of the universal scaling of cortical folding"
@@ -67,14 +67,14 @@
   authors: Mota B, Dos Santos SE, Ventura-Antunes L, Neves K, Kazu RS, Herculano-Houzel S.
   link:
     url: https://www.pnas.org/doi/full/10.1073/pnas.1716956116
-    display: PNAS, Vol. 116, No. 30 (2019) — 68 citations
+    display: PNAS, Vol. 116, No. 30 (2019), 68 citations
   highlight: 1
 
 - title: "Cellular scaling rules for the brain of Artiodactyla include a highly folded cortex with few neurons"
   image:
-  description: Scaling rules found across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor. The distribution of neurons along the cortical surface — related to gyrification — appears to be a clade-specific characteristic.
+  description: Scaling rules found across modern afrotherians, glires, and artiodactyls applied to the common Eutherian ancestor. The distribution of neurons along the cortical surface, related to gyrification, appears to be a clade-specific characteristic.
   authors: Kazu RS, Maldonado J, Mota B, Menger PR, Herculano-Houzel S.
   link:
     url: https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full
-    display: Frontiers in Neuroanatomy, Vol. 8 (2014) — 56 citations
+    display: Frontiers in Neuroanatomy, Vol. 8 (2014), 56 citations
   highlight: 0
