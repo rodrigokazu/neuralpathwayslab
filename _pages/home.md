@@ -18,26 +18,35 @@ In October 2026 I became independent with an MND Association Non-Clinical Junior
 </div>
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
+<div markdown="0" id="carousel" class="carousel slide np-carousel" data-ride="carousel" data-interval="6000" data-pause="hover">
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_pipeline.png" alt="Research pipeline: from multiome atlas to drug targets" style="width:100%; max-height:420px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_motor_neurons_tdp43.jpg" alt="Two motor neurons in ALS spinal cord, Xenium RNA on the left and the pTDP-43 stain of the same field on the right" />
+            <div class="np-cap"><strong>One motor neuron, two readouts</strong>Xenium spatial transcriptomics (left) and a pTDP-43 stain of the same ALS spinal cord field (right). The motor neuron with TDP-43 pathology is packed with <i>CTSD</i> and cryptic <i>STMN2</i> transcripts.</div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/als_grn.png" alt="WDR49+ astrocyte GRN and cell-cell communication" style="width:100%; max-height:420px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_multiome_atlas.jpg" alt="t-SNE of the ALS motor cortex multiome atlas, astrocytes including WDR49+ highlighted in purple" />
+            <div class="np-cap"><strong>A single-nucleus multiome atlas of ALS motor cortex</strong>The atlas profiles RNA and chromatin in 788,330 nuclei from 70 donors and resolves every major cortical cell type. A WDR49+ astrocyte state stands out as a candidate protective population.</div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/mds_concept.png" alt="Minimum Dominating Set conceptual framework" style="width:100%; max-height:420px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_controller_genes.jpg" alt="Gene network of the WDR49+ astrocyte programme: 27 best-connected genes leave 161 genes unreached, while 27 controller genes reach all 783" />
+            <div class="np-cap"><strong>Network controllability finds the genes that steer a programme</strong>In the 783-gene WDR49+ astrocyte programme, 27 controller genes reach every gene in one step, and an exact search proves that no smaller set can. The 27 best-connected genes leave 161 behind.</div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/bayraktar_spatial.png" alt="Spatial transcriptomics of glioblastoma TAMs" style="width:100%; max-height:420px; object-fit:contain;" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_spinal_cord_xenium.jpg" alt="Spinal cord section from a C9orf72 ALS donor with motor neurons marked by TDP-43 status, a ventral horn zoom and all 20 donor sections" />
+            <div class="np-cap"><strong>Motor neurons and TDP-43 pathology across the spinal cord</strong>We mapped 20 spinal cord sections with Xenium, one per donor, and scored every motor neuron for pTDP-43. On the left, a C9orf72 ALS section and its ventral horn.</div>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_atera_purkinje.jpg" alt="Human cerebellum on 10x Atera with Purkinje neurons marked, and two Purkinje neurons whose outlines include the whole dendrite" />
+            <div class="np-cap"><strong>Whole-transcriptome spatial imaging with 10x Atera</strong>A human cerebellum section imaged by 10x Genomics across 18,050 genes. Our segmentation follows each Purkinje neuron from cell body to dendrite. The default outlines, dashed, hold only part of the cell body.</div>
         </div>
     </div>
 
@@ -51,7 +60,7 @@ In October 2026 I became independent with an MND Association Non-Clinical Junior
   </a>
 </div>
 
-<div style="text-align: justify; margin-top:100px">
+<div style="text-align: justify; margin-top:40px">
   Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, funded by an <a href="https://www.mndassociation.org/research">MND Association</a> Non-Clinical Junior Fellowship, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Main collaborators include the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute.
 </div>
 

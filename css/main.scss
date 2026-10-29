@@ -202,3 +202,64 @@ firstp {
     margin: 14px -95px;
   }
 }
+
+/* Home carousel (Oct 2026): wide 2:1 figures, caption under each image */
+#carousel.np-carousel {
+  height: auto;
+  width: 100%;
+  margin: 36px 0 0 0;
+  border-radius: 0;
+}
+#carousel.np-carousel .item img {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;
+  box-shadow: none;
+}
+#carousel.np-carousel .np-cap {
+  min-height: 7.2em;
+  padding: 14px 7% 38px 7%;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #333333;
+  text-align: left;
+  border-top: 1px solid #1A1A1A;
+}
+#carousel.np-carousel .np-cap strong {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 18px;
+  color: #0E2841;
+}
+#carousel.np-carousel .carousel-indicators {
+  bottom: 4px;
+  margin-bottom: 0;
+}
+#carousel.np-carousel .carousel-indicators li {
+  border-color: #0E2841;
+}
+#carousel.np-carousel .carousel-indicators .active {
+  background-color: #C8102E;
+  border-color: #C8102E;
+}
+#carousel.np-carousel .carousel-control {
+  width: 5%;
+  background-image: none;
+  color: #0E2841;
+  text-shadow: none;
+  opacity: 0.35;
+}
+#carousel.np-carousel .carousel-control:hover,
+#carousel.np-carousel .carousel-control:focus {
+  opacity: 0.9;
+}
+@media only screen and (max-width: 767px) {
+  #carousel.np-carousel .np-cap {
+    min-height: 11em;
+    padding: 10px 4% 34px 4%;
+    font-size: 14px;
+  }
+  #carousel.np-carousel .np-cap strong { font-size: 16px; }
+}
