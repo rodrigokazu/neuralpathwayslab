@@ -1,5 +1,5 @@
 ---
-title: "Neural Pathways Lab - Current projects"
+title: "NeuralPathways Lab: Current projects"
 layout: gridlay
 sitemap: true
 permalink: /research/
@@ -46,7 +46,7 @@ permalink: /research/
 </div>
 {% endif %}
 
-### Full List of projects
+### All projects
 
 {% for proj in site.data.research %}
 

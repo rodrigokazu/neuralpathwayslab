@@ -1,5 +1,5 @@
 ---
-title: "NeuralPathways Lab - Consulting"
+title: "NeuralPathways Lab: Consulting"
 layout: page
 sitemap: true
 permalink: /consulting/
@@ -15,22 +15,11 @@ permalink: /consulting/
 .service-card {
   background: #fff;
   border: 1px solid #e0e0e0;
-  border-left: 4px solid #337ab7;
   border-radius: 4px;
   padding: 24px;
   flex: 1 1 calc(50% - 20px);
   min-width: 280px;
   box-sizing: border-box;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-.service-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-  transform: translateY(-2px);
-}
-.service-card .card-icon {
-  font-size: 28px;
-  color: #337ab7;
-  margin-bottom: 12px;
 }
 .service-card h4 {
   margin: 0 0 10px;
@@ -52,17 +41,12 @@ permalink: /consulting/
 .pricing-card {
   background: #f9f9f9;
   border: 1px solid #e0e0e0;
-  border-top: 3px solid #337ab7;
   border-radius: 4px;
   padding: 22px 18px 16px;
   flex: 1 1 calc(25% - 16px);
   min-width: 200px;
   text-align: center;
   box-sizing: border-box;
-  transition: box-shadow 0.2s ease;
-}
-.pricing-card:hover {
-  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
 }
 .pricing-card h4 {
   margin: 0 0 8px;
@@ -83,119 +67,105 @@ permalink: /consulting/
 </style>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>I take on a limited number of remote consulting engagements alongside my academic research. If your team needs specialist analysis capacity in single-cell genomics, spatial transcriptomics, or computational neuroscience, I can help, whether that is a one-off pipeline build or ongoing analytical support.</p>
+<p>I take on a few remote consulting projects alongside my research. I can help with single-cell genomics, spatial transcriptomics and computational neuroscience, from a one-off pipeline to ongoing analysis for a lab.</p>
 </div>
 
 <div markdown="0" class="services-grid">
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-dna"></i></div>
-<h4>Single-Cell & Multiome Pipeline Build</h4>
-<p>End-to-end scRNA-seq or multiome analysis: from raw data to a reproducible, documented scanpy/SnapATAC2 pipeline running on your HPC. Built on experience with 788,330-nucleus ALS datasets.</p>
+<h4>Single-cell and multiome pipelines</h4>
+<p>I take scRNA-seq or multiome data from raw files to a documented, reproducible scanpy and SnapATAC2 pipeline that runs on your cluster. I analysed our ALS multiome atlas of 788,330 nuclei the same way.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-microscope"></i></div>
-<h4>Spatial Transcriptomics Analysis</h4>
-<p>Xenium, Visium, or CosMx from raw to publication-ready figures: QC, segmentation, cell typing, niche analysis (NicheCompass/Novae), and DOT deconvolution. Experience with multi-donor Xenium datasets in ALS, glioblastoma, and spinal cord injury.</p>
+<h4>Spatial transcriptomics</h4>
+<p>I analyse Xenium, Visium or CosMx data from raw output to figures for a paper, including quality control, segmentation, cell typing, niche analysis with NicheCompass or Novae, and deconvolution with DOT. I have analysed multi-donor Xenium datasets of ALS spinal cord, glioblastoma and spinal cord injury.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-chart-bar"></i></div>
-<h4>Differential Abundance & Composition</h4>
-<p>Milo neighbourhood-level differential abundance and scCODA compositional analysis with proper statistical design, batch correction, and publication-quality figures. It is the analysis most labs get wrong.</p>
+<h4>Differential abundance and composition</h4>
+<p>I test changes in cell composition with Milo, across cell neighbourhoods, and with scCODA, across cell types. I set up the design so that each donor counts once, and I correct for batch.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-project-diagram"></i></div>
-<h4>Gene Regulatory Network Inference</h4>
-<p>Cell-type-specific GRN reconstruction, network controllability (Minimum Dominating Set), and integration with GWAS/scDRS for variant-to-mechanism mapping. A scarce skill set at the intersection of network science and genomics.</p>
+<h4>Gene regulatory networks</h4>
+<p>I build cell-type-specific gene regulatory networks, find the smallest sets of genes that control them with minimum dominating sets, and use scDRS to test the networks against GWAS results for a disease.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-server"></i></div>
-<h4>Reproducibility & Scale Rescue</h4>
-<p>Your pipeline doesn't scale or reproduce? I make it run on SLURM for 1M+ cells with clean environments, version-pinned dependencies, and documented workflows.</p>
+<h4>Reproducible analysis at scale</h4>
+<p>If your pipeline is slow or gives different results on each run, I can move it to SLURM with pinned software versions and documented steps, so that it handles hundreds of thousands of cells.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-pen-fancy"></i></div>
-<h4>Methods & Figures for Manuscripts</h4>
-<p>Analysis methods sections, publication-quality figure panels, and reproducible code repos that bridge the gap between raw results and a polished submission.</p>
+<h4>Methods and figures for papers</h4>
+<p>I write the analysis methods, build the figure panels and share the code as a reproducible repository for your manuscript.</p>
 </div>
 
 </div>
-
-<hr>
 
 <h3>Credentials</h3>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **PhD in Cybernetics** (University of Reading), with postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, in collaboration with the Snyder Lab at Stanford University
-- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors), joint first author, in revision at **Nature Neuroscience**
-- **10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
-- Published in **PNAS** (68 citations) and **iScience** (23 citations, INSIGNEO prize, international press), and co-author of a TDP-43 study accepted at **Nature**
-- Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
+- PhD in Cybernetics from the University of Reading, then postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, with the Snyder Lab at Stanford University
+- Joint first author of the largest ALS multiome atlas to date, 788,330 nuclei from 70 donors, in revision at Nature Neuroscience
+- Built a 10x Xenium spatial transcriptomics pipeline for ALS/MND, glioblastoma and spinal cord injury
+- Papers in PNAS (68 citations) and iScience (23 citations, INSIGNEO prize), and co-author of a TDP-43 study accepted at Nature
+- Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and former postdoc in the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
 
 </div>
 
-<hr>
-
-<h3>Selected Media Coverage</h3>
+<h3>Selected media coverage</h3>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-My work on FootSim, a digital model of the human foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)), was covered internationally after publication:
+News outlets in the UK and Brazil covered FootSim, our model of touch on the foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)):
 
 - *The Engineer* (UK): ["Digital foot could enhance neuroprosthetics"](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics)
 - *Medical Xpress*: ["Digital foot model could revolutionize bionic limbs"](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)
-- *O Globo* (Brazil, national press): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
+- *O Globo* (Brazil): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
 
 </div>
 
-<hr>
-
-<h3>Engagement Models</h3>
+<h3>Rates</h3>
 
 <div markdown="0" class="pricing-grid">
 
 <div class="pricing-card">
 <h4>Project</h4>
-<p>Defined deliverable, e.g. Xenium analysis of N samples to figures</p>
+<p>A fixed piece of work, such as Xenium analysis of a set of samples through to figures</p>
 <div class="price">From £1,500</div>
 </div>
 
 <div class="pricing-card">
 <h4>Hourly</h4>
-<p>Small, scoped, or exploratory tasks</p>
-<div class="price">£80 to £150 / hr</div>
+<p>Small or exploratory tasks</p>
+<div class="price">£80 to £150 per hour</div>
 </div>
 
 <div class="pricing-card">
 <h4>Retainer</h4>
 <p>Ongoing analysis support for a lab or startup</p>
-<div class="price">£800 to £3,000 / mo</div>
+<div class="price">£800 to £3,000 per month</div>
 </div>
 
 <div class="pricing-card">
 <h4>Day rate</h4>
-<p>Workshops or intensive analysis days</p>
-<div class="price">£500 to £900 / day</div>
+<p>Workshops or full days of analysis</p>
+<div class="price">£500 to £900 per day</div>
 </div>
 
 </div>
 
 <div markdown="0" style="text-align: center; color: #777; margin-top: 10px; margin-bottom: 30px; font-size: 13px;">
-<p>50% deposit on project engagements. All work delivered with reproducible code and documentation.</p>
+<p>Projects need a 50% deposit. I deliver all work with reproducible code and documentation.</p>
 </div>
 
-<hr>
-
-<h3>Get in Touch</h3>
+<h3>Contact</h3>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>Interested in working together? Book a free 30-minute scoping call or send an enquiry:</p>
+<p>You can book a free 30-minute call to scope a project, or email me.</p>
 <div style="margin-top: 20px; margin-bottom: 20px;">
 <a href="https://calendar.app.google/1BfUFVCYa7b9PDRTA" class="btn btn-primary btn-lg" style="margin-right: 10px;">Book a 30-min call</a>
 <a href="mailto:r.siqueiradesouza@sheffield.ac.uk" class="btn btn-default btn-lg" style="margin-right: 10px;">Email me</a>

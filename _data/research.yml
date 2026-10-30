@@ -1,6 +1,6 @@
 - title: "ALS multiome atlas and network controllability"
   image: wdr49_atlas.jpg
-  description: I am joint first author on a single-nucleus multiome atlas of ALS motor cortex from 70 donors, profiled for gene expression and chromatin accessibility and now in revision at Nature Neuroscience. From this atlas I infer cell-type-specific gene regulatory networks and use minimum dominating sets to find the smallest group of controller genes that reaches every gene in a network in one step. In one 783-gene WDR49+ astrocyte programme, 27 controller genes reach every gene, while the 27 best-connected genes reach 622. An exact search shows that no smaller set exists, but other sets of 27 genes can do the same, so we treat controllers as candidates to test.
+  description: I am joint first author on a single-nucleus multiome atlas of ALS motor cortex from 70 donors, which measures gene expression and chromatin accessibility in the same nuclei. The paper is in revision at Nature Neuroscience. From this atlas I infer cell-type-specific gene regulatory networks and use minimum dominating sets to find the smallest group of controller genes that reaches every gene in a network in one step. In one 783-gene WDR49+ astrocyte programme, 27 controller genes reach every gene, while the 27 best-connected genes reach 622. An exact search shows that no smaller set exists, but other sets of 27 genes can do the same, so we treat controllers as candidates to test.
   interested: Sam Bonsall, Rodrigo Kazu Siqueira, Marianne King, Diana Leung, Johnathan Cooper-Knock, Michael P. Snyder and collaborators.
   link:
     url: https://www.researchsquare.com/article/rs-9853460/v1
@@ -18,7 +18,7 @@
 
 - title: "scController: network controllability for single-cell and spatial omics"
   image: controller_network.jpg
-  description: As part of my MND Association fellowship project, I am building scController, an open-source Python package that finds minimum dominating sets in gene regulatory networks and in spatial cell-type co-occurrence networks from single-cell and spatial omics data. It will follow scverse conventions and will be compared with hub-based gene ranking. With Prof Bruno Mota I am developing new centrality measures to complement it.
+  description: For my MND Association fellowship, I am building scController, an open-source Python package that finds minimum dominating sets in gene regulatory networks and in spatial cell-type co-occurrence networks from single-cell and spatial omics data. It will follow scverse conventions, and I will compare it with hub-based gene ranking. With Prof Bruno Mota I am developing new centrality measures to complement it.
   interested: Rodrigo Kazu Siqueira, Bruno Mota, Johnathan Cooper-Knock.
   link:
     url:
@@ -45,7 +45,7 @@
 
 - title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
-  description: With the Bayraktar group at the Wellcome Sanger Institute, I applied clustering and the zero-shot Novae models to 10x Xenium spatial transcriptomics and multiome data from glioblastoma, and used NicheCompass to place tumour-associated macrophage (TAM) subtypes in their tumour niches. The study is led by Qianqian Zhang and Omer Bayraktar and the manuscript is in preparation.
+  description: With the Bayraktar group at the Wellcome Sanger Institute, I applied clustering and the zero-shot Novae models to 10x Xenium spatial transcriptomics and multiome data from glioblastoma, and used NicheCompass to place tumour-associated macrophage (TAM) subtypes in their tumour niches. Qianqian Zhang and Omer Bayraktar lead the study, and the manuscript is in preparation.
   interested: Qianqian Zhang (lead), Grant de Jong, Rodrigo Kazu Siqueira, David Rowitch, Omer Bayraktar.
   link:
     url: https://www.sanger.ac.uk/group/bayraktar-group/
@@ -54,7 +54,7 @@
 
 - title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
   image:
-  description: An atlas of spinal cord injury mapping molecular and cellular architecture across space and time in mouse and human tissue. An integrated single-cell transcriptomic atlas (167,493 cells, 18 broad cell types) is projected onto 10x Visium spatial transcriptomics sections from mice at 1, 3, 7, 14 and 28 days after contusion injury using Cell2location. Cell-cell communication is inferred with MISTy and LIANA, revealing spatiotemporal tissue zonation (including distinct fibrotic core, glial scar and spared grey matter compartments) and fine-grained macrophage and microglia subtype dynamics throughout the injury response. The study is led by Emily Burnside with Frank Bradke and Omer Bayraktar, I contributed Xenium analysis, and the manuscript is in preparation.
+  description: This study maps how cells and gene expression change across space and time after spinal cord injury, in mouse and human tissue. Emily Burnside leads it with Frank Bradke and Omer Bayraktar. The team used Cell2location to map an integrated single-cell atlas (167,493 cells in 18 broad cell types) onto 10x Visium sections of mouse spinal cord at 1, 3, 7, 14 and 28 days after contusion injury. Cell-cell communication analyses with MISTy and LIANA divide the injury site into a fibrotic core, a glial scar and spared grey matter, and follow macrophage and microglia subtypes through the injury response. I contributed Xenium analysis, and the manuscript is in preparation.
   interested: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Rodrigo Kazu Siqueira, Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke, Omer Bayraktar.
   link:
     url:
@@ -63,7 +63,7 @@
 
 - title: "Selective pruning and neuronal death generate heavy-tailed network connectivity"
   image: netn_fig1f.png
-  description: Inspired by the loss of neurons and synapses during brain development, we propose a directed network model in which less-connected nodes and edges are selectively deleted. The resulting networks show heavy-tailed degree distributions without fine-tuning, as long as the network is mostly feed-forward. This suggests that neuronal and synaptic pruning during development is selective rather than random, and that preferential detachment can generate heavy-tailed networks alongside preferential attachment. The paper has been submitted to Network Neuroscience.
+  description: The developing brain loses many of its neurons and synapses. Our directed network model copies this by selectively deleting less-connected nodes and edges. The resulting networks show heavy-tailed degree distributions without fine-tuning, as long as the network is mostly feed-forward. This suggests that pruning of neurons and synapses during development is selective, and that preferential detachment, like preferential attachment, can generate heavy-tailed networks. We have submitted the paper to Network Neuroscience.
   interested: Rodrigo Kazu Siqueira, Kleber Neves, Bruno Mota.
   link:
     url: https://arxiv.org/abs/2408.02625

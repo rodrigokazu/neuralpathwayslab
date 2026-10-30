@@ -1,5 +1,5 @@
 ---
-title: "NeuralPathways Lab - Publications"
+title: "NeuralPathways Lab: Publications"
 layout: gridlay
 sitemap: true
 permalink: /publications/
@@ -46,7 +46,7 @@ permalink: /publications/
 </div>
 {% endif %}
 
-### Full List of publications
+### All publications
 
 {% for publi in site.data.publist %}
 

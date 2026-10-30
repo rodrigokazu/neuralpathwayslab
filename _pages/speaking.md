@@ -1,5 +1,5 @@
 ---
-title: "NeuralPathways Lab - Speaking"
+title: "NeuralPathways Lab: Speaking"
 layout: page
 sitemap: true
 permalink: /speaking/
@@ -15,22 +15,11 @@ permalink: /speaking/
 .service-card {
   background: #fff;
   border: 1px solid #e0e0e0;
-  border-left: 4px solid #337ab7;
   border-radius: 4px;
   padding: 24px;
   flex: 1 1 calc(50% - 20px);
   min-width: 280px;
   box-sizing: border-box;
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
-.service-card:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
-  transform: translateY(-2px);
-}
-.service-card .card-icon {
-  font-size: 28px;
-  color: #337ab7;
-  margin-bottom: 12px;
 }
 .service-card h4 {
   margin: 0 0 10px;
@@ -52,17 +41,12 @@ permalink: /speaking/
 .pricing-card {
   background: #f9f9f9;
   border: 1px solid #e0e0e0;
-  border-top: 3px solid #337ab7;
   border-radius: 4px;
   padding: 22px 18px 16px;
   flex: 1 1 calc(25% - 16px);
   min-width: 200px;
   text-align: center;
   box-sizing: border-box;
-  transition: box-shadow 0.2s ease;
-}
-.pricing-card:hover {
-  box-shadow: 0 3px 12px rgba(0,0,0,0.08);
 }
 .pricing-card h4 {
   margin: 0 0 8px;
@@ -83,119 +67,106 @@ permalink: /speaking/
 </style>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>I give keynote and invited talks at industry conferences, pharma symposia, biotech events, and spatial-omics vendor meetings. My work on the largest ALS multiome atlas assembled to date and on Xenium spatial datasets in ALS, glioblastoma and spinal cord injury is the kind of large-scale, real-world single-cell and spatial science that user meetings and genomics congresses want on their programme. Talks can be tailored from a 20-minute vendor showcase to a full conference keynote or hands-on tutorial.</p>
+<p>I give invited talks at conferences, pharma and biotech symposia and spatial omics user meetings. I speak about our ALS multiome atlas of 788,330 nuclei from 70 donors and about Xenium spatial data from ALS, glioblastoma and spinal cord injury. Talks range from a 20-minute user-meeting slot to a full keynote or a hands-on tutorial.</p>
 </div>
 
 <div markdown="0" class="services-grid">
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-dna"></i></div>
-<h4>Building the Largest ALS Multiome Atlas</h4>
-<p>How we assembled and analysed a 788,330-nucleus, 70-donor ALS multiome atlas, and what that scale reveals about motor neuron and glial vulnerability that smaller studies miss.</p>
+<h4>Building an ALS multiome atlas</h4>
+<p>How we built and analysed a multiome atlas of 788,330 nuclei from 70 donors, and what it shows about neurons and glia in ALS motor cortex, including a WDR49+ astrocyte state that may protect against disease.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-microscope"></i></div>
-<h4>Spatial Transcriptomics in Human Spinal Cord</h4>
-<p>A practitioner's tour of a 10x Xenium pipeline across ALS/MND, glioblastoma, and spinal cord injury: segmentation, cell typing, niche analysis, and deconvolution, with honest notes on what works, what breaks, and what to budget for. Ideal for vendor user meetings (10x Genomics, NanoString/Bruker, Vizgen).</p>
+<h4>Xenium spatial transcriptomics in practice</h4>
+<p>I present our 10x Xenium pipeline for ALS spinal cord, glioblastoma and spinal cord injury, covering segmentation, cell typing, niche analysis and deconvolution. I explain which steps failed, how we fixed them and how to budget a study. The talk suits user meetings run by 10x Genomics, Bruker (NanoString) or Vizgen.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-chart-bar"></i></div>
-<h4>Differential Abundance Done Right</h4>
-<p>Why most labs get compositional and neighbourhood-level differential abundance wrong, and how Milo and scCODA, with proper statistical design and batch correction, change what you can claim from single-cell data.</p>
+<h4>Differential abundance in single-cell data</h4>
+<p>This talk covers common mistakes in testing changes in cell composition, and how Milo and scCODA, with a donor-level design and batch correction, change what a single-cell study can claim.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-project-diagram"></i></div>
-<h4>From Variant to Mechanism</h4>
-<p>Cell-type-specific gene regulatory networks, network controllability (Minimum Dominating Set), and GWAS/scDRS integration, to connect disease genetics to regulatory mechanism where network science meets genomics.</p>
+<h4>Network controllability of gene regulatory networks</h4>
+<p>How we build cell-type-specific gene regulatory networks, find the smallest sets of genes that control them with minimum dominating sets, and test the networks against GWAS results with scDRS.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-server"></i></div>
-<h4>Single-Cell Genomics at HPC Scale</h4>
-<p>Engineering reproducible scanpy/SnapATAC2 workflows that run on SLURM for 1M+ cells: environments, version pinning, and what it actually takes to scale analysis beyond a laptop. A methods and infrastructure talk for technical audiences.</p>
+<h4>Single-cell analysis on a computing cluster</h4>
+<p>How we run reproducible scanpy and SnapATAC2 workflows on SLURM for hundreds of thousands of nuclei, with pinned environments and versioned code. This is a methods talk for technical audiences.</p>
 </div>
 
 <div class="service-card">
-<div class="card-icon"><i class="fas fa-comments"></i></div>
-<h4>Panels, Fireside Chats & Tutorials</h4>
-<p>Available for moderated panels, fireside discussions, and hands-on workshops on single-cell multiomics, spatial biology, and computational neuroscience, in formats tailored to your audience and run time.</p>
+<h4>Panels and tutorials</h4>
+<p>I also join moderated panels and fireside discussions, and run hands-on workshops on single-cell multiomics, spatial biology and computational neuroscience, at the length your event needs.</p>
 </div>
 
 </div>
 
-<hr>
-
-<h3>Selected Talks &amp; Invitations</h3>
+<h3>Selected talks and invitations</h3>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **37th International Symposium on ALS/MND**, Amsterdam, December 2026 (oral presentation)
-- **Invited talk at the Kellis Lab, MIT** (computational genomics)
-- **Genomics @ Scale**, Cambridge (accepted)
-- **MND Association (MNDA) Main Meeting** (invited)
-- **LASCON 2026** (invited speaker)
-- Poster at the **Society for Neuroscience (SfN)** annual meeting (2019)
-- Multiple additional invited talks and seminars across the UK and US
+- 37th International Symposium on ALS/MND, Amsterdam, December 2026 (oral presentation)
+- LASCON 2026 (invited speaker)
+- MND Association Annual Meeting, November 2025 (invited talk)
+- Genomics @ Scale 2025, Cambridge (accepted talk)
+- Kellis Lab, MIT (invited talk on computational genomics)
+- MRC Cognition and Brain Sciences Unit, University of Cambridge, 2023 (invited talk)
+- Advanced Neuroscience Program, University of Brazil, 2018 and 2021 (invited speaker)
+- Society for Neuroscience (SfN) annual meeting, 2019 (poster)
 
 </div>
 
-<hr>
-
-<h3>Speaker Profile</h3>
+<h3>Speaker profile</h3>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **PhD in Cybernetics** (University of Reading), with postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, in collaboration with the Snyder Lab at Stanford University
-- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors), joint first author, in revision at **Nature Neuroscience**
-- **10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
-- Published in **PNAS** (68 citations) and **iScience** (23 citations, INSIGNEO prize, international press), and co-author of a TDP-43 study accepted at **Nature**
-- Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
+- PhD in Cybernetics from the University of Reading, then postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, with the Snyder Lab at Stanford University
+- Joint first author of the largest ALS multiome atlas to date, 788,330 nuclei from 70 donors, in revision at Nature Neuroscience
+- Built a 10x Xenium spatial transcriptomics pipeline for ALS/MND, glioblastoma and spinal cord injury
+- Papers in PNAS (68 citations) and iScience (23 citations, INSIGNEO prize), and co-author of a TDP-43 study accepted at Nature
+- Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and former postdoc in the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
 
 </div>
 
-<hr>
-
-<h3>Selected Media Coverage</h3>
+<h3>Selected media coverage</h3>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-My work on FootSim, a digital model of the human foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)), was covered internationally after publication:
+News outlets in the UK and Brazil covered FootSim, our model of touch on the foot sole ([iScience, 2022](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?)):
 
 - *The Engineer* (UK): ["Digital foot could enhance neuroprosthetics"](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics)
 - *Medical Xpress*: ["Digital foot model could revolutionize bionic limbs"](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)
-- *O Globo* (Brazil, national press): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
+- *O Globo* (Brazil): ["O fim das próteses: cientistas criam sola de pé digital que rastreia sinais neurológicos que controlam como andamos"](https://oglobo.globo.com/saude/noticia/2023/02/o-fim-das-proteses-cientistas-criam-sola-de-pe-digital-que-rastreia-sinais-neurologicos-que-controlam-como-andamos.ghtml)
 
 </div>
 
-<hr>
-
-<h3>Speaking Formats &amp; Fees</h3>
+<h3>Formats and fees</h3>
 
 <div markdown="0" class="pricing-grid">
 
 <div class="pricing-card">
-<h4>Conference Keynote</h4>
-<p>Headline talk at an industry conference or symposium</p>
+<h4>Keynote</h4>
+<p>Main talk at an industry conference or symposium</p>
 <div class="price">£1,500 to £4,000</div>
 </div>
 
 <div class="pricing-card">
-<h4>Invited / Vendor Talk</h4>
+<h4>Invited or user-meeting talk</h4>
 <p>User meetings and sponsored sessions (10x, NanoString, Vizgen)</p>
 <div class="price">£800 to £2,500</div>
 </div>
 
 <div class="pricing-card">
-<h4>Workshop / Tutorial</h4>
-<p>Hands-on session or intensive analysis day</p>
+<h4>Workshop or tutorial</h4>
+<p>Hands-on session or a full day of analysis</p>
 <div class="price">£1,200 to £2,500</div>
 </div>
 
 <div class="pricing-card">
-<h4>Panel / Fireside</h4>
+<h4>Panel or discussion</h4>
 <p>Moderated discussion or shorter contribution</p>
 <div class="price">Negotiable</div>
 </div>
@@ -203,15 +174,13 @@ My work on FootSim, a digital model of the human foot sole ([iScience, 2022](htt
 </div>
 
 <div markdown="0" style="text-align: center; color: #777; margin-top: 10px; margin-bottom: 30px; font-size: 13px;">
-<p>Honorarium plus travel and accommodation on commercial engagements. Fees are indicative and depend on format, audience, and preparation; academic and non-profit events considered case by case.</p>
+<p>For commercial events I charge an honorarium plus travel and accommodation. These fees are a guide and depend on format, audience and preparation. I consider academic and non-profit events case by case.</p>
 </div>
 
-<hr>
-
-<h3>Book a Talk</h3>
+<h3>Contact</h3>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>Organising a conference, user meeting, or symposium? Book a short call to discuss topics and logistics, or send the event details by email:</p>
+<p>If you are organising a conference, user meeting or symposium, you can book a short call about topics and logistics, or email me the event details.</p>
 <div style="margin-top: 20px; margin-bottom: 20px;">
 <a href="https://calendar.app.google/1BfUFVCYa7b9PDRTA" class="btn btn-primary btn-lg" style="margin-right: 10px;">Book a 30-min call</a>
 <a href="mailto:r.siqueiradesouza@sheffield.ac.uk" class="btn btn-default btn-lg" style="margin-right: 10px;">Email me</a>

@@ -1,5 +1,5 @@
 ---
-title: "Neural Pathways Lab - Team"
+title: "NeuralPathways Lab: Team"
 layout: gridlay
 sitemap: true
 permalink: /team/
