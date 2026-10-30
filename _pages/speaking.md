@@ -83,7 +83,7 @@ permalink: /speaking/
 </style>
 
 <div markdown="0" style="text-align: justify; margin-bottom: 30px;">
-<p>I give keynote and invited talks at industry conferences, pharma symposia, biotech events, and spatial-omics vendor meetings. My work on the largest ALS multiome atlas assembled to date and on 1.2M-cell Xenium spatial datasets is the kind of large-scale, real-world single-cell and spatial science that user meetings and genomics congresses want on their programme. Talks can be tailored from a 20-minute vendor showcase to a full conference keynote or hands-on tutorial.</p>
+<p>I give keynote and invited talks at industry conferences, pharma symposia, biotech events, and spatial-omics vendor meetings. My work on the largest ALS multiome atlas assembled to date and on Xenium spatial datasets in ALS, glioblastoma and spinal cord injury is the kind of large-scale, real-world single-cell and spatial science that user meetings and genomics congresses want on their programme. Talks can be tailored from a 20-minute vendor showcase to a full conference keynote or hands-on tutorial.</p>
 </div>
 
 <div markdown="0" class="services-grid">
@@ -96,8 +96,8 @@ permalink: /speaking/
 
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-microscope"></i></div>
-<h4>Spatial Transcriptomics at 1.2M Cells</h4>
-<p>A practitioner's tour of a 1.2M-cell 10x Xenium pipeline across ALS/MND, glioblastoma, and spinal cord injury: segmentation, cell typing, niche analysis, and deconvolution, with honest notes on what works, what breaks, and what to budget for. Ideal for vendor user meetings (10x Genomics, NanoString/Bruker, Vizgen).</p>
+<h4>Spatial Transcriptomics in Human Spinal Cord</h4>
+<p>A practitioner's tour of a 10x Xenium pipeline across ALS/MND, glioblastoma, and spinal cord injury: segmentation, cell typing, niche analysis, and deconvolution, with honest notes on what works, what breaks, and what to budget for. Ideal for vendor user meetings (10x Genomics, NanoString/Bruker, Vizgen).</p>
 </div>
 
 <div class="service-card">
@@ -132,10 +132,12 @@ permalink: /speaking/
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
+- **37th International Symposium on ALS/MND**, Amsterdam, December 2026 (oral presentation)
 - **Invited talk at the Kellis Lab, MIT** (computational genomics)
 - **Genomics @ Scale**, Cambridge (accepted)
 - **MND Association (MNDA) Main Meeting** (invited)
-- **Society for Neuroscience (SfN) Main Meeting**
+- **LASCON 2026** (invited speaker)
+- Poster at the **Society for Neuroscience (SfN)** annual meeting (2019)
 - Multiple additional invited talks and seminars across the UK and US
 
 </div>
@@ -146,10 +148,10 @@ permalink: /speaking/
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **PhD in Cybernetics** (University of Reading) with postdoctoral research at the Wellcome Sanger Institute, University of Cambridge, University of Sheffield, and Stanford University (Snyder Lab)
-- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors)
-- **1.2M-cell 10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
-- Published in **PNAS** (68 citations), **iScience** (23 citations, INSIGNEO prize, international press), with a manuscript under review at **Nature**
+- **PhD in Cybernetics** (University of Reading), with postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, in collaboration with the Snyder Lab at Stanford University
+- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors), joint first author, in revision at **Nature Neuroscience**
+- **10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
+- Published in **PNAS** (68 citations) and **iScience** (23 citations, INSIGNEO prize, international press), and co-author of a TDP-43 study accepted at **Nature**
 - Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
 
 </div>

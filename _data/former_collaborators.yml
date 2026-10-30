@@ -1,6 +1,5 @@
 - name: Dr Hannes P Saal
   photo: Hannes.jpg
-  info: Associate Professor, University of Sheffield. FootSim collaboration.
-  email: h.saal@sheffield.ac.uk
+  info: Senior Lecturer, School of Psychology, University of Sheffield, UK.
   number_educ: 1
-  education1: Hannes Saal leads a computational neuroscience lab at the University of Sheffield focused on the sense of touch. He was the senior author on the FootSim paper (iScience 2022).
+  education1: Hannes Saal leads the Active Touch Laboratory at the University of Sheffield, which studies how touch is encoded and perceived using psychophysics, computational modelling and machine learning. He was senior author on FootSim (iScience, 2022), which I built as a postdoc in Sheffield.

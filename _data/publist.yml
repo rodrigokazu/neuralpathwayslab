@@ -1,56 +1,65 @@
-- title: "Molecular correlates of TDP-43 pathology in human motor neurons revealed by spatial transcriptomics"
-  image: als_xenium.png
-  description: Spatial transcriptomic analysis of 1.2M Xenium-profiled cervical spinal cord cells from ALS and control cases, defining motor neuron pathology-enriched populations and revealing TDP-43-associated cryptic exon signatures (STMN2, UNC13A) and CCDC146 correlations within spatially resolved disease niches.
-  authors: Rodrigo Kazu Siqueira, Andrew Strange, Sam Bonsall, Chenchen Zhu, Robin Highley, Daniel Fillingham, Sai Zhang, Jingtian Zhou, Emma Monte, Eran Hornstein, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
-  link:
-    url:
-    display: In preparation, Nature Genetics
-  highlight: 1
-
-- title: "Astrocyte WDR49 function prevents amyotrophic lateral sclerosis"
-  image: wdr49_fig1.png
-  description: High-quality 10x multiome single-cell profiling of 357,862 cells from 70 volunteers (25 non-neurological controls, 26 sporadic ALS, 19 C9orf72-associated ALS donors), to our knowledge the largest ALS multiome sequencing dataset to date. Cell-type-specific eGRNs inferred with scDORI; differential gene expression with PyDESeq2; chromatin accessibility with SnapATAC2; compositional changes with scCODA and Milo.
-  authors: Rodrigo Kazu Siqueira, Sam Bonsall, Marianne King, Andrew Strange, Sai Zhang, Jingtian Zhou, Charlotte van Dijk, Emma Monte, Tatyana Shelkovnikova, Kevin Kenna, Pamela Shaw, Johnathan Cooper-Knock, Michael P. Snyder
-  link:
-    url:
-    display: In preparation, Nature Neuroscience
-  highlight: 1
-
-- title: "TDP-43 toxic gain of function links ALS/FTLD-TDP and Alzheimer's disease through splicing dysregulation"
+- title: "TDP-43 toxic gain of function links ALS, FTD and Alzheimer's Disease through splicing dysregulation"
   image: tdp43_splicing.png
-  description: A multi-cohort study showing that TDP-43 pathology broadly drives splicing dysregulation in Alzheimer's disease, including aberrant APP isoform production (APP751/APP770). TDP-43 toxic gain of cytoplasmic function co-sequesters splicing regulators SCAF11, SRSF5, and TIAL1, mechanistically linking ALS/FTLD-TDP and AD through shared splicing dysfunction.
-  authors: Welmoed van Zuiden, Thea Meimoun, Chen Bar, Aviad Siany, Lihi Moshe, Nancy Yacovzada, Eviatar Weizman, Manuela Neumann, Aron S Buchman, Yanling Wang, Kazu R.S., Andrew Strange, David A Bennett, Jonathan D Glass, Adam N Trautwig, Nicholas T Seyfried, Johnathan Cooper-Knock, Eran Hornstein
+  description: A multi-cohort study showing that TDP-43 pathology is broadly associated with mis-splicing in Alzheimer's disease and drives production of the APP751 and APP770 isoforms. Cytoplasmic TDP-43 co-sequesters the splicing regulators SCAF11, SRSF5 and TIAL1, which links ALS, FTD and Alzheimer's disease through shared splicing dysfunction.
+  authors: Welmoed van Zuiden\*, Thea Meimoun\*, Chen Bar, Aviad Siany, Bar Abarbanel, Lihi Moshe, Nancy S Yacovzada, Emmanuel Amzallag, Aleksandar Rajkovic, Liat Alyagor, Eviatar Weizman, Manuela Neumann, Colin Smith, Karina McDade, Andrew Strange, Rodrigo Siqueira Kazu, Marcel Weinreich, Aron S Buchman, Yanling Wang, David A Bennett, Bingqing Zhao, Lixia Jiang, Joanna Bi, Michael P Snyder, Dmytro Morderer, Jorge Garcia Morato, Wilfried Rossoll, Madison M Reeves, Dennis W Dickson, Mercedes Prudencio, Peter T Nelson, Jonathan D Glass, Adam N Trautwig, Mingee Chung, Zachary T McEachin, Nicholas T Seyfried, Johnathan Cooper-Knock, Eran Hornstein (\*equal contribution)
   link:
-    url: https://www.biorxiv.org/content/10.1101/2025.04.20.648873v1
-    display: bioRxiv 2025.04.20.648873
+    url: https://doi.org/10.1101/2025.04.20.648873
+    display: "Accepted at Nature (2026). Preprint: bioRxiv 2025.04.20.648873"
+  highlight: 1
+
+- title: "Single-nucleus multiomic atlas of ALS primary motor cortex nominates neuroprotective WDR49-expressing astrocytes"
+  image: wdr49_atlas.jpg
+  description: Single-nucleus multiome profiling (gene expression and chromatin accessibility) of primary motor cortex from 70 donors with sporadic ALS, C9orf72 ALS or no neurological disease. We inferred cell-type-specific gene regulatory networks with scDoRI and tested changes in gene expression, chromatin accessibility and cell composition. The atlas nominates a WDR49-expressing astrocyte population as a candidate protective cell state in ALS.
+  authors: Sam Bonsall\*, Rodrigo Kazu Siqueira\*, Marianne King\*, Diana Leung\*, Farah Y Mahiddine, J Robin Highley, Andrew Strange, Yongzhuo Chen, Matilde Sassani, Sara Cabras, Katie M Bowden, Hollie E Wareing, Mahmoud K Eldahshoury, James R Boyne, Mark Collins, Emma Marie Monte, Calum Harvey, Sarah B Gornall, Akanksha Jangid, Connie Treanor, Tobias Moll, Charlotte H van Dijk, Yiliang Huang, Alex E Urban, Pamela J Shaw, Ryan J H West, Kevin P Kenna, Eran Hornstein, Sai Zhang, Johnathan Cooper-Knock, Jingtian Zhou, Michael P Snyder (\*equal contribution)
+  link:
+    url: https://www.researchsquare.com/article/rs-9853460/v1
+    display: "In revision, Nature Neuroscience. Preprint: Research Square rs-9853460"
+  highlight: 1
+
+- title: "Spatially resolved TDP-43 pathology in amyotrophic lateral sclerosis links to neuroprotective cathepsin D activity"
+  image: spinal_cord_xenium.jpg
+  description: 10x Xenium spatial transcriptomics (480-gene panel) of spinal cord sections from 20 donors with sporadic ALS, C9orf72 ALS or no neurological disease, with motor neurons scored for TDP-43 pathology on a pTDP-43 stain of the same section. Within ALS sections, motor neurons with TDP-43 pathology carry about 1.5 times more cathepsin D (CTSD) transcripts than motor neurons of the same size without it, and rare damaging CTSD variants raise ALS risk.
+  authors: Rodrigo Kazu Siqueira\*, Marcel Weinreich\*, ..., Johnathan Cooper-Knock, Michael P. Snyder (\*joint first authors, full author list to be confirmed)
+  link:
+    url:
+    display: In preparation
+  highlight: 1
+
+- title: "Selective pruning and neuronal death generate heavy-tailed network connectivity"
+  image: netn_fig1f.png
+  description: A directed network model in which less-connected nodes and edges are selectively deleted. The model produces heavy-tailed degree distributions without fine-tuning, which suggests that neuronal and synaptic pruning during brain development is selective rather than random, and that preferential detachment can generate heavy-tailed networks alongside preferential attachment.
+  authors: Kazu RS, Neves K and Mota B
+  link:
+    url: https://arxiv.org/abs/2408.02625
+    display: "Submitted to Network Neuroscience (2026). Preprint: arXiv:2408.02625"
+  highlight: 1
+
+- title: "Single-nucleus regulatory mapping reveals drivers of oligodendrocyte and OPC dysfunctional states in Alzheimer's disease"
+  image:
+  description: Multi-region single-nucleus RNA and chromatin accessibility data from human brain are combined to map oligodendrocyte and oligodendrocyte progenitor cell (OPC) states in Alzheimer's disease and to infer the gene regulatory programmes that drive them.
+  authors: Chagas P, De Felice FG, Ferreira ST, Ribeiro FC, Mota B, Kazu RS and Lourenço MV (Kazu RS and Lourenço MV co-corresponding)
+  link:
+    url:
+    display: In preparation
   highlight: 1
 
 - title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
-  description: Machine learning models including clustering and zero-shot approaches (Novae) applied to Xenium spatial transcriptomics and multiome data from glioblastoma samples. Identification of distinct tumour-associated macrophage (TAM) subtypes and their spatial localisation within the tumour microenvironment using NicheCompass.
+  description: Machine learning models, including clustering and zero-shot approaches (Novae), applied to Xenium spatial transcriptomics and multiome data from glioblastoma samples. The study identifies distinct tumour-associated macrophage (TAM) subtypes and places them in the tumour microenvironment using NicheCompass.
   authors: Qianqian Zhang, Grant de Jong, Kazu R.S., David Rowitch, Omer Bayraktar
   link:
     url:
-    display: In preparation, Nature
+    display: In preparation
   highlight: 1
 
 - title: "Spatiotemporally resolved molecular and cellular architecture of spinal cord injury"
   image:
-  description: Spatiotemporal cellular and molecular architecture of spinal cord injury mapped using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package) in both murine and human samples. Identifies distinct cellular subtypes and their interactions across injury zones.
-  authors: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Kazu R.S., Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke
+  description: Spatiotemporal cellular and molecular architecture of spinal cord injury mapped using Xenium spatial transcriptomics and multiome integration with optimal transport (DOT package) in mouse and human samples. Identifies distinct cellular subtypes and their interactions across injury zones.
+  authors: Emily R. Burnside, Yeliz Demirci, Jovan Tanevski, Chang Lu, Zoi Katsirea, Kenny Roberts, Guillaume P. Heger, Jimmy Lee, Kazu R.S., Elizabeth Tuck, Julio Saez-Rodriguez, Frank Bradke, Omer Bayraktar
   link:
     url:
-    display: In preparation, Cell
+    display: In preparation
   highlight: 0
-
-- title: "Selective pruning and neuronal death generate heavy-tail network connectivity"
-  image: mds_network.png
-  description: A directed network model in which less-connected nodes and edges are selectively deleted, robustly producing scale-invariant degree distributions without fine-tuning. Results suggest neuronal and synaptic pruning during brain development are selective rather than random, and that preferential detachment is a general mechanism for scale-free network formation alongside preferential attachment.
-  authors: Kazu RS, Neves K and Mota B
-  link:
-    url: https://arxiv.org/abs/2408.02625
-    display: arXiv:2408.02625 [q-bio.NC] (2024)
-  highlight: 1
 
 - title: "Modeling foot sole cutaneous afferents: FootSim"
   image: footsim.png

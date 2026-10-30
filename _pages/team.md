@@ -5,6 +5,23 @@ sitemap: true
 permalink: /team/
 ---
 
+<style>
+.np-initials {
+  float: left;
+  width: 25%;
+  aspect-ratio: 1 / 1;
+  margin-right: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #e8eef5;
+  color: #337ab7;
+  font-weight: 600;
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+</style>
+
 <div style="margin-top: 45px;">
 
 ### Team
@@ -23,13 +40,8 @@ permalink: /team/
 <div class="col-sm-6 clearfix" style="text-align: justify;"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left">
   <h4>{{ member.name }}</h4>
-  <a href="{{ member.twitter }}" target="_blank">
-    <i class="fa-brands fa-x-twitter"></i>
-  <a href="{{ member.scholar }}" target="_blank">
-    <i class="fa fa-graduation-cap" style="font-size:13px; color:black"></i>
-  <a href="{{ member.email }}" target="_blank">
-    <i class="fa fa-envelope" style="font-size:13px; color:black"></i>
-  </a>
+  {% if member.scholar %}<a href="{{ member.scholar }}" target="_blank"><i class="fa fa-graduation-cap" style="font-size:13px; color:black"></i></a>{% endif %}
+  <a href="mailto:{{ member.email }}"><i class="fa fa-envelope" style="font-size:13px; color:black"></i></a>
   
   <i>{{ member.info }}<br></i>
 
@@ -53,6 +65,42 @@ permalink: /team/
 {% endif %}
 
 
+### Key collaborators
+
+{% assign number_printed = 0 %}
+{% for member in site.data.key_collaborators %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix" style="text-align:justify;">
+  {% if member.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />{% else %}<span class="np-initials">{{ member.initials }}</span>{% endif %}
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}{% if member.email %}
+  <br>email: {{ member.email }}{% endif %}</i>
+
+  {% if member.number_educ == 1 %}
+  <p> {{ member.education1 }} </p>
+  {% endif %}
+
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 ### Collaborators
 
 {% assign number_printed = 0 %}
@@ -65,11 +113,11 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="text-align:justify;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />{% else %}<span class="np-initials">{{ member.initials }}</span>{% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} 
-  <br>email: {{ member.email }}</i>
-  
+  <i>{{ member.info }}{% if member.email %}
+  <br>email: {{ member.email }}{% endif %}</i>
+
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
   {% endif %}
@@ -89,6 +137,7 @@ permalink: /team/
 </div>
 {% endif %}
 
+{% if site.data.former_collaborators.size > 0 %}
 ### Former Collaborators
 
 {% assign number_printed = 0 %}
@@ -101,10 +150,10 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix" style="text-align:justify;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% if member.photo %}<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />{% else %}<span class="np-initials">{{ member.initials }}</span>{% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}
-  <br>email: {{ member.email }}</i>
+  <i>{{ member.info }}{% if member.email %}
+  <br>email: {{ member.email }}{% endif %}</i>
 
   {% if member.number_educ == 1 %}
   <p> {{ member.education1 }} </p>
@@ -124,31 +173,4 @@ permalink: /team/
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-### Former visitors, BSc/ MSc students
-<div class="row">
-
-<div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
-{{ member.name }}
-{% endfor %}
-</div>
-
-</div>
-
+{% endif %}

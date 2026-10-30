@@ -97,7 +97,7 @@ permalink: /consulting/
 <div class="service-card">
 <div class="card-icon"><i class="fas fa-microscope"></i></div>
 <h4>Spatial Transcriptomics Analysis</h4>
-<p>Xenium, Visium, or CosMx from raw to publication-ready figures: QC, segmentation, cell typing, niche analysis (NicheCompass/Novae), and DOT deconvolution. Experience with 1.2M-cell Xenium datasets across ALS, glioblastoma, and spinal cord injury.</p>
+<p>Xenium, Visium, or CosMx from raw to publication-ready figures: QC, segmentation, cell typing, niche analysis (NicheCompass/Novae), and DOT deconvolution. Experience with multi-donor Xenium datasets in ALS, glioblastoma, and spinal cord injury.</p>
 </div>
 
 <div class="service-card">
@@ -132,10 +132,10 @@ permalink: /consulting/
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
-- **PhD in Cybernetics** (University of Reading) with postdoctoral research at the Wellcome Sanger Institute, University of Cambridge, University of Sheffield, and Stanford University (Snyder Lab)
-- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors)
-- **1.2M-cell 10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
-- Published in **PNAS** (68 citations), **iScience** (23 citations, INSIGNEO prize, international press), with a manuscript under review at **Nature**
+- **PhD in Cybernetics** (University of Reading), with postdoctoral research at the Wellcome Sanger Institute and the University of Sheffield, in collaboration with the Snyder Lab at Stanford University
+- **788,330-nucleus ALS multiome atlas**, the largest assembled to date (70 donors), joint first author, in revision at **Nature Neuroscience**
+- **10x Xenium spatial transcriptomics pipeline** across ALS/MND, glioblastoma, and spinal cord injury
+- Published in **PNAS** (68 citations) and **iScience** (23 citations, INSIGNEO prize, international press), and co-author of a TDP-43 study accepted at **Nature**
 - Member of [Cambridge Neuroscience](https://neuroscience.cam.ac.uk/member/rodrigokazu/) and collaborator with the [Bayraktar group](https://www.sanger.ac.uk/group/bayraktar-group/) at the Wellcome Sanger Institute
 
 </div>

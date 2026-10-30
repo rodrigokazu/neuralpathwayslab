@@ -1,5 +1,20 @@
 - date: October 2026
+  headline: "Our study with Eran Hornstein's group at the Weizmann Institute, \"TDP-43 toxic gain of function links ALS, FTD and Alzheimer's Disease through splicing dysregulation\", has been accepted at Nature. [Preprint on bioRxiv](https://doi.org/10.1101/2025.04.20.648873)"
+
+- date: October 2026
   headline: "The [MND Association](https://www.mndassociation.org/research) has awarded me a Non-Clinical Junior Fellowship for \"Uncovering spatially-resolved master controller genes in ALS motor cortex and spinal cord\". With it I am starting my own research programme at SITraN, University of Sheffield, in partnership with the Snyder Lab at Stanford. We will use network controllability to find the few genes that steer each cell type's gene regulatory network in ALS, then locate those genes in motor cortex and spinal cord at single-cell resolution with 10x Atera, which images 18,050 genes in intact tissue. The goal is a short, testable list of candidate treatment targets for motor neurone disease."
+
+- date: October 2026
+  headline: "I am looking for PhD students. See the new [prospective students page](/prospective-students/) for a PhD project proposal on oligodendrocyte gene regulatory networks in ALS."
+
+- date: October 2026
+  headline: "Poster at the scverse 2026 conference in Copenhagen on spatial transcriptomics of TDP-43 pathology in human motor neurons."
+
+- date: October 2026
+  headline: "\"Selective pruning and neuronal death generate heavy-tailed network connectivity\", with Kleber Neves and Bruno Mota, submitted to Network Neuroscience."
+
+- date: August 2026
+  headline: "Abstract accepted for an oral presentation at the 37th International Symposium on ALS/MND, Amsterdam, December 2026."
 
 - date: June 2026
   headline: "Invited to the second round of the MNDA Non-Clinical Junior Fellowship for \"Network controllability of gene regulatory networks in ALS.\""
@@ -13,6 +28,9 @@
 - date: March 2026
   headline: "Invited Speaker at LASCON 2026."
 
+- date: August 2025
+  headline: Joined the Cooper-Knock group at SITraN, University of Sheffield, within the Snyder Lab collaboration at Stanford University.
+
 - date: November 2024
   headline: "Talk at the MNDA Annual Meeting: \"Novel cell-specific insights from single-cell multiome profiling of diseased and healthy motor cortex.\""
 
@@ -22,20 +40,20 @@
 - date: August 2024
   headline: "New preprint: \"Selective pruning and neuronal death generate heavy-tail network connectivity.\" [arXiv:2408.02625](https://arxiv.org/abs/2408.02625)"
 
-- date: June 2025
-  headline: Joined the Cooper-Knock group at SITraN, University of Sheffield, within the Snyder Lab collaboration at Stanford University.
+- date: July 2024
+  headline: Joined the Bayraktar group as a Post-doctoral Fellow at the Wellcome Sanger Institute, Cambridge.
 
-- date: May 2024
-  headline: Rodrigo joined the Bayraktar Lab as Post-doctoral Fellow at the Wellcome Sanger Institute, University of Cambridge.
+- date: 23 March 2024
+  headline: "Won a grant to improve FootSim! [check it here](https://www.sheffield.ac.uk/library/research-data-management/unleash-your-data-and-software-2024)"
 
 - date: 2023
   headline: "Invited Talk at MRC Cognition and Brain Sciences Unit, University of Cambridge."
 
-- date: 15 August 2024
-  headline: Paulo Chagas selected in first place for the Applied Physics Masters course at the University of Brazil in collaboration with metaBIO.
+- date: 1 February 2023
+  headline: "Digital foot could revolutionize bionic limbs and other assistive technologies. [check it here](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)"
 
-- date: 23 March 2024
-  headline: "Won a grant to improve FootSim! [check it here](https://www.sheffield.ac.uk/library/research-data-management/unleash-your-data-and-software-2024)"
+- date: 30 January 2023
+  headline: "Digital foot could enhance neuroprosthetics. [check it here](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics/)"
 
 - date: 2021
   headline: "Invited Speaker at the Advanced Neuroscience Program, University of Brazil."
@@ -48,9 +66,3 @@
 
 - date: 2018
   headline: "Invited Speaker at the Advanced Neuroscience Program, University of Brazil."
-
-- date: 1 February 2023
-  headline: "Digital foot could revolutionize bionic limbs and other assistive technologies. [check it here](https://medicalxpress.com/news/2023-02-digital-foot-revolutionize-bionic-limbs.html)"
-
-- date: 30 January 2023
-  headline: "Digital foot could enhance neuroprosthetics. [check it here](https://www.theengineer.co.uk/content/news/digital-foot-could-enhance-neuroprosthetics/)"

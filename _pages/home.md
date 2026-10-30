@@ -11,7 +11,7 @@ I'm a Brazilian-born British computational genomics researcher and [MND Associat
 
 I trained in biology in Rio, with a master's on brain evolution in artiodactyls ([Frontiers in Neuroanatomy, 2014](https://www.frontiersin.org/articles/10.3389/fnana.2014.00128/full); [PNAS, 2019](https://www.pnas.org/doi/full/10.1073/pnas.1716956116)), then did a CNPq-funded PhD in Cybernetics at Reading. In Sheffield I built [FootSim](https://www.cell.com/iscience/fulltext/S2589-0042(22)02147-2?), a model of touch across the foot sole for prosthetic feedback that won the INSIGNEO Institute prize (iScience, 2022).
 
-After industry and a fellowship at the Wellcome Sanger Institute, I joined the Cooper-Knock lab at SITraN to work on the largest ALS single-cell multiome dataset to date (788,330 nuclei, 70 donors). Its biggest surprise is a WDR49+ astrocyte population that looks protective. I also built a 10x Xenium spatial transcriptomics pipeline for ALS spinal cord, glioblastoma and spinal cord injury, and a study of TDP-43 splicing across ALS, FTD and Alzheimer's disease is under review at Nature.
+After industry and a fellowship at the Wellcome Sanger Institute, I joined the Cooper-Knock lab at SITraN to work on the largest ALS single-cell multiome dataset to date (788,330 nuclei, 70 donors), now in revision at Nature Neuroscience. Its biggest surprise is a WDR49+ astrocyte population that looks protective. I also built a 10x Xenium spatial transcriptomics pipeline for ALS spinal cord, glioblastoma and spinal cord injury, and a study of TDP-43 splicing across ALS, FTD and Alzheimer's disease has been accepted at Nature.
 
 In October 2026 I started my own programme at SITraN with an MND Association fellowship, "Uncovering spatially-resolved master controller genes in ALS motor cortex and spinal cord". It uses network controllability to find the genes that steer each cell type and maps them in ALS tissue.
 
@@ -38,7 +38,7 @@ In October 2026 I started my own programme at SITraN with an MND Association fel
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_controller_genes.jpg" alt="Gene network of the WDR49+ astrocyte programme: 27 best-connected genes leave 161 genes unreached, while 27 controller genes reach all 783" />
-            <div class="np-cap"><strong>Network controllability finds the genes that steer a programme</strong>In the 783-gene WDR49+ astrocyte programme, 27 controller genes reach every gene in one step, and an exact search proves that no smaller set can. The 27 best-connected genes leave 161 behind.</div>
+            <div class="np-cap"><strong>Network controllability finds the genes that steer a programme</strong>In the 783-gene WDR49+ astrocyte programme, 27 controller genes reach every gene in one step, and an exact search proves that no smaller set can. Other sets of 27 genes can do the same, so we treat controllers as candidates. The 27 best-connected genes leave 161 behind.</div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_spinal_cord_xenium.jpg" alt="Spinal cord section from a C9orf72 ALS donor with motor neurons marked by TDP-43 status, a ventral horn zoom and all 20 donor sections" />
@@ -61,7 +61,7 @@ In October 2026 I started my own programme at SITraN with an MND Association fel
 </div>
 
 <div style="text-align: justify; margin-top:40px">
-  Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, funded by an <a href="https://www.mndassociation.org/research">MND Association</a> Non-Clinical Junior Fellowship, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Main collaborators include the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute.
+  Based at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, funded by an <a href="https://www.mndassociation.org/research">MND Association</a> Non-Clinical Junior Fellowship, in collaboration with the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford University. Member of <a href="https://neuroscience.cam.ac.uk/member/rodrigokazu/">Cambridge Neuroscience</a>. Key collaborators include Johnathan Cooper-Knock, Marcel Weinreich and Andrew Strange at SITraN, Michael Snyder at Stanford and Bruno Mota at the Federal University of Rio de Janeiro, and the <a href="https://www.sanger.ac.uk/group/bayraktar-group/">Bayraktar group</a> at the Wellcome Sanger Institute. See the <a href="{{ site.url }}{{ site.baseurl }}/team">Team page</a> for everyone we work with.
 </div>
 
 <div markdown="0" class="logo-row" style="margin-top: 50px; display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); align-items: center; justify-items: center; gap: 24px; padding: 16px 0;">

@@ -1,0 +1,32 @@
+- name: Prof Johnathan Cooper-Knock
+  photo: JCK.png
+  info: Professor, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield, UK. Lab head.
+  email: j.cooper-knock@sheffield.ac.uk
+  number_educ: 1
+  education1: Johnathan Cooper-Knock is a neurologist and geneticist who leads a research group on the genetic causes of ALS/MND at SITraN. His group generated the ALS motor cortex multiome atlas and is part of the Project MinE consortium. He is a co-applicant on my MND Association fellowship and senior author on our spatial and multiome studies.
+
+- name: Prof Michael P. Snyder
+  photo: Snyder.jpg
+  info: Professor and Chair of Genetics, Stanford University, USA.
+  email: mpsnyder@stanford.edu
+  number_educ: 1
+  education1: Michael Snyder is Professor and Chair of Genetics at Stanford University and director of the Center for Genomics and Personalized Medicine. His lab works on multiomics, single-cell technologies and personalised medicine. He is senior author on the ALS multiome atlas, and the Cooper-Knock group works with the Snyder Lab on sample processing at Stanford's genomics core facility and on computational infrastructure.
+
+- name: Prof Bruno Mota
+  photo: Bruno.jpeg
+  info: Associate Professor, Federal University of Rio de Janeiro (metaBIO), Brazil.
+  email: bruno@if.ufrj.br
+  number_educ: 1
+  education1: Bruno Mota is an Associate Professor at the Federal University of Rio de Janeiro and head of the metaBIO group. He works on complex networks, brain morphology and computational biology. He is a co-applicant on my MND Association fellowship, co-author of the selective pruning network paper submitted to Network Neuroscience, and is developing new centrality measures to complement minimum dominating set analysis in scController.
+
+- name: Marcel Weinreich
+  initials: MW
+  info: Research Fellow, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield, UK.
+  number_educ: 1
+  education1: Marcel Weinreich is a Research Fellow in the Cooper-Knock group at SITraN, where he applies machine learning and genetics to ALS, including predicTTE, a tool that predicts the timing of clinical events in ALS. He is joint first author with me on our spatial transcriptomics study of TDP-43 pathology in ALS spinal cord, and we work together on segmentation and network analysis of the 10x Atera data for my fellowship.
+
+- name: Dr Andrew Strange
+  initials: AS
+  info: Postdoctoral bioinformatician, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield, UK.
+  number_educ: 1
+  education1: Andrew Strange works on large multi-omic ALS datasets at SITraN, after a PhD at the University of Aberdeen and a postdoc at the University of Nottingham on early embryonic development. We work together on the ALS motor cortex multiome atlas, the spinal cord spatial study and the TDP-43 splicing study with the Hornstein lab.
