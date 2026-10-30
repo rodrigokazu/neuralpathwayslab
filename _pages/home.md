@@ -42,7 +42,7 @@ In October 2026 I started my own programme at SITraN with an MND Association fel
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_spinal_cord_xenium.jpg" alt="Spinal cord section from a C9orf72 ALS donor with motor neurons marked by TDP-43 status, a ventral horn zoom and all 20 donor sections" />
-            <div class="np-cap"><strong>Motor neurons and TDP-43 pathology across the spinal cord</strong>We mapped 20 spinal cord sections with Xenium, one per donor, and scored every motor neuron for pTDP-43. On the left, a C9orf72 ALS section and its ventral horn.</div>
+            <div class="np-cap"><strong>Motor neurons and TDP-43 pathology across the spinal cord</strong>We mapped 770,000 cells in 20 spinal cord sections with Xenium, one per donor, and scored every motor neuron for pTDP-43. On the left, a C9orf72 ALS section and its ventral horn.</div>
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/np_atera_purkinje.jpg" alt="Human cerebellum on 10x Atera with Purkinje neurons marked, and two Purkinje neurons whose outlines include the whole dendrite" />
