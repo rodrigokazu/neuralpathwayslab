@@ -113,7 +113,7 @@ permalink: /prospective-students/
 
 <h4>Aims</h4>
 <ol>
-<li><strong>Map oligodendrocyte regulatory programmes in ALS.</strong> Using our single-nucleus multiome atlas of ALS motor cortex from 70 donors, infer gene regulatory network topics for the oligodendrocyte lineage with scDoRI, working closely with its developer, Manu Saraswat. Compare sporadic and C9orf72 ALS with controls, and classify transcription factors as activators or repressors of each programme.</li>
+<li><strong>Map oligodendrocyte regulatory programmes in ALS.</strong> Using our single-nucleus multiome atlas of ALS motor cortex (788,330 nuclei from 70 donors), infer gene regulatory network topics for the oligodendrocyte lineage with scDoRI, working closely with its developer, Manu Saraswat. Compare sporadic and C9orf72 ALS with controls, and classify transcription factors as activators or repressors of each programme.</li>
 <li><strong>Find the genes that steer the disease programmes.</strong> Apply network controllability (minimum dominating sets) and centrality measures to the programmes that shift in ALS. Test how stable the candidate controller genes are across donors and across equally small solutions, and rank them against ALS genetics.</li>
 <li><strong>Locate them in human tissue.</strong> Test the leading programmes and genes in our spatial transcriptomics data. Relate oligodendrocyte states to TDP-43 pathology in nearby motor neurons in ALS spinal cord (10x Xenium), and compare motor cortex with spinal cord from the same donors (10x Atera).</li>
 </ol>
