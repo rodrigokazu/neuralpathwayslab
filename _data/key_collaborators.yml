@@ -20,13 +20,13 @@
   education1: Bruno Mota is an Associate Professor at the Federal University of Rio de Janeiro and head of the metaBIO group. He works on complex networks, brain morphology and computational biology. He is a co-applicant on my MND Association fellowship, co-author of the selective pruning network paper submitted to Network Neuroscience, and is developing new centrality measures to complement minimum dominating set analysis in scController.
 
 - name: Marcel Weinreich
-  initials: MW
+  photo: MarcelWeinreich.jpg
   info: Research Fellow, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield, UK.
   number_educ: 1
   education1: Marcel Weinreich is a Research Fellow in the Cooper-Knock group at SITraN, where he applies machine learning and genetics to ALS, including predicTTE, a tool that predicts the timing of clinical events in ALS. He is joint first author with me on our spatial transcriptomics study of TDP-43 pathology in ALS spinal cord, and we work together on segmentation and network analysis of the 10x Atera data for my fellowship.
 
 - name: Dr Andrew Strange
-  initials: AS
+  photo: AndrewStrange.jpg
   info: Postdoctoral bioinformatician, Sheffield Institute for Translational Neuroscience (SITraN), University of Sheffield, UK.
   number_educ: 1
   education1: Andrew Strange works on large multi-omic ALS datasets at SITraN, after a PhD at the University of Aberdeen and a postdoc at the University of Nottingham on early embryonic development. We work together on the ALS motor cortex multiome atlas, the spinal cord spatial study and the TDP-43 splicing study with the Hornstein lab.

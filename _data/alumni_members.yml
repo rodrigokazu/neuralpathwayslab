@@ -1,11 +1,11 @@
 - name: Manu Saraswat
-  initials: MS
-  info: German Cancer Research Center (DKFZ), Heidelberg, Germany. Developer of scDoRI.
+  photo: ManuSaraswat.jpg
+  info: Postdoctoral Researcher, German Cancer Research Center (DKFZ), Heidelberg, Germany, and Visiting Researcher in Dana Pe'er's lab, Memorial Sloan Kettering Cancer Center, New York, USA. Developer of scDoRI.
   number_educ: 1
   education1: Manu Saraswat develops scDoRI, a deep learning model that infers enhancer-mediated gene regulatory networks from single-cell multiome data, and has applied it to glioblastoma. We use scDoRI to build the cell-type networks behind my controllability work, and we will work closely together on the proposed PhD project on oligodendrocytes in ALS.
 
 - name: Sam Bonsall
-  initials: SB
+  photo: SamBonsall.jpg
   info: Research Associate in Bioinformatics, SITraN, University of Sheffield, UK.
   number_educ: 1
   education1: Sam Bonsall is a Research Associate in Bioinformatics at SITraN. He is joint first author with me on the ALS motor cortex multiome atlas.
