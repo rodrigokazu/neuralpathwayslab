@@ -9,7 +9,7 @@
 
 - title: "Spatially resolved TDP-43 pathology in amyotrophic lateral sclerosis links to neuroprotective cathepsin D activity"
   image: spinal_cord_xenium.jpg
-  description: We profiled 770,000 cells in spinal cord sections from 20 donors with 10x Xenium and scored motor neurons for TDP-43 pathology on a pTDP-43 stain of the same section. Motor neurons with TDP-43 pathology carry more cathepsin D (CTSD) transcripts than motor neurons of the same size without it, and rare damaging CTSD variants raise ALS risk. Through my MND Association fellowship we will extend this to paired motor cortex and spinal cord from each donor of a new Edinburgh Brain Bank cohort, with 10x Atera whole-transcriptome imaging. The manuscript is in preparation.
+  description: We profiled 770,000 cells in spinal cord sections from 20 donors with 10x Xenium and scored motor neurons for TDP-43 pathology on a pTDP-43 stain of the same section. Motor neurons with TDP-43 pathology carry more cathepsin D (CTSD) transcripts than motor neurons of the same size without it, and rare damaging CTSD variants raise ALS risk. Through my prospective MND Association fellowship we plan to extend this to paired motor cortex and spinal cord from each donor of a new Edinburgh Brain Bank cohort, with 10x Atera whole-transcriptome imaging. The manuscript is in preparation.
   interested: Rodrigo Kazu Siqueira, Marcel Weinreich, Andrew Strange, Johnathan Cooper-Knock, Michael P. Snyder and collaborators.
   link:
     url:
@@ -18,7 +18,7 @@
 
 - title: "scController: network controllability for single-cell and spatial omics"
   image: controller_network.jpg
-  description: For my MND Association fellowship, I am building scController, an open-source Python package that finds minimum dominating sets in gene regulatory networks and in spatial cell-type co-occurrence networks from single-cell and spatial omics data. It will follow scverse conventions, and I will compare it with hub-based gene ranking. With Prof Bruno Mota I am developing new centrality measures to complement it.
+  description: For my prospective MND Association fellowship, I am building scController, an open-source Python package that finds minimum dominating sets in gene regulatory networks and in spatial cell-type co-occurrence networks from single-cell and spatial omics data. It will follow scverse conventions, and I will compare it with hub-based gene ranking. With Prof Bruno Mota I am developing new centrality measures to complement it.
   interested: Rodrigo Kazu Siqueira, Bruno Mota, Johnathan Cooper-Knock.
   link:
     url:

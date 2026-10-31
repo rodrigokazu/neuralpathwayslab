@@ -60,7 +60,7 @@ permalink: /prospective-students/
 </style>
 
 <div markdown="0" style="text-align: justify; margin: 45px 0 30px;">
-<p>I am building a computational group at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, with an <a href="https://www.mndassociation.org/research">MND Association</a> Non-Clinical Junior Fellowship. We work closely with the Cooper-Knock lab at SITraN and the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford, and we use single-cell multiomics, spatial transcriptomics and network science to find the genes behind cell-type-specific changes in ALS/MND.</p>
+<p>I am building a computational group at the <a href="https://www.sheffield.ac.uk/sitran">Sheffield Institute for Translational Neuroscience (SITraN)</a>, University of Sheffield, as a prospective <a href="https://www.mndassociation.org/research">MND Association</a> Non-Clinical Junior Fellow. We work closely with the Cooper-Knock lab at SITraN and the <a href="https://snyderlab.stanford.edu">Snyder Lab</a> at Stanford, and we use single-cell multiomics, spatial transcriptomics and network science to find the genes behind cell-type-specific changes in ALS/MND.</p>
 <p>I welcome enquiries from prospective PhD students, and from MSc and summer students looking for a computational project. Below is a PhD project I would like to supervise.</p>
 </div>
 

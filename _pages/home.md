@@ -9,7 +9,7 @@ permalink: /
 
 We map ALS in human spinal cord and brain at single-cell resolution, without taking the tissue apart. We use spatial transcriptomics, single-cell multiomics and network science to find the cells and genes that drive motor neurone disease.
 
-Dr Rodrigo Kazu Siqueira leads the lab at the [Sheffield Institute for Translational Neuroscience (SITraN)](https://www.sheffield.ac.uk/sitran), University of Sheffield, with an [MND Association](https://www.mndassociation.org/research) fellowship. We work in partnership with the Cooper-Knock lab at SITraN, the [Snyder Lab](https://snyderlab.stanford.edu) at Stanford and Bruno Mota's metaBIO group at the Federal University of Rio de Janeiro. [We are looking for PhD students.]({{ site.url }}{{ site.baseurl }}/prospective-students/)
+Dr Rodrigo Kazu Siqueira leads the lab at the [Sheffield Institute for Translational Neuroscience (SITraN)](https://www.sheffield.ac.uk/sitran), University of Sheffield, as a prospective [MND Association](https://www.mndassociation.org/research) Junior Fellow. We work in partnership with the Cooper-Knock lab at SITraN, the [Snyder Lab](https://snyderlab.stanford.edu) at Stanford and Bruno Mota's metaBIO group at the Federal University of Rio de Janeiro. [We are looking for PhD students.]({{ site.url }}{{ site.baseurl }}/prospective-students/)
 
 </div>
 
