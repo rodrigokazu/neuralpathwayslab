@@ -43,6 +43,15 @@
     display: In preparation
   highlight: 1
 
+- title: "Single-cell spatial transcriptomics of the human anterior hippocampus across LATE neuropathological stage"
+  image: hippocampus_xenium.jpg
+  description: We used 10x Xenium to profile single cells in tissue cores of the human anterior hippocampus from 24 donors. We compare donors at limbic-predominant age-related TDP-43 encephalopathy (LATE) stage 0, who have no TDP-43 pathology, with donors at LATE stage 2 or 3, and map the cell-type-specific changes in gene expression between the groups.
+  authors: Andrew Strange, Marcel Weinreich, Farah Y Mahiddine, Karina McDade, Emma Marie Monte, Chenchen Zhu, Colin Smith, Eran Hornstein, J Robin Highley, Pamela J Shaw, Michael P Snyder, Johnathan Cooper-Knock, Rodrigo Kazu Siqueira (Pamela J Shaw, Johnathan Cooper-Knock and Rodrigo Kazu Siqueira co-senior authors, final author list to follow)
+  link:
+    url:
+    display: In preparation
+  highlight: 1
+
 - title: "Transcriptional profiling identifies functional niche-specific TAM subtypes supporting Glioblastoma"
   image: gbm_spatial.png
   description: We applied clustering and the zero-shot Novae models to Xenium spatial transcriptomics and multiome data from glioblastoma. The study identifies tumour-associated macrophage (TAM) subtypes and places them in the tumour microenvironment with NicheCompass.
