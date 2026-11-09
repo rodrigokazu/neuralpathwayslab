@@ -109,6 +109,7 @@ permalink: /speaking/
 <div style="text-align: justify; margin-bottom: 20px;">
 
 - 37th International Symposium on ALS/MND, Amsterdam, December 2026 (oral presentation)
+- Project MinE Satellite Meeting, 37th International Symposium on ALS/MND, Amsterdam, December 2026 (Non-coding Working Group update)
 - LASCON 2026 (invited speaker)
 - MND Association Annual Meeting, November 2025 (invited talk)
 - Genomics @ Scale 2025, Cambridge (accepted talk)
